@@ -205,7 +205,7 @@
 - [tijmenvangulik/ErgometerJS](https://github.com/tijmenvangulik/ErgometerJS) - Java script ergometer driver for concept2 performance monitor with BLE/USB .
 - [jasonelle/jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
 - [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in th
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
@@ -876,7 +876,7 @@
 ## hacking 
 
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in th
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 
 ## hacktoberfest 
 
@@ -909,7 +909,6 @@
 - [statiqdev/Statiq.Web](https://github.com/statiqdev/Statiq.Web) - Statiq Web is a flexible static site generator written in .NET.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in th
 - [vonovak/react-navigation-header-buttons](https://github.com/vonovak/react-navigation-header-buttons) - Easily render header buttons for react-navigation.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [redux-offline/redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
@@ -988,7 +987,7 @@
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools
 - [freshOS/Stevia](https://github.com/freshOS/Stevia) - :leaves: Concise Autolayout code
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in th
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [lucaspbordignon/rn-apple-healthkit](https://github.com/lucaspbordignon/rn-apple-healthkit) - A React Native package for interacting with Apple HealthKit
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
@@ -2309,7 +2308,7 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in th
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 
 ## ruby 
 
