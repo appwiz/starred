@@ -235,7 +235,7 @@
 ## api 
 
 - [remult/remult](https://github.com/remult/remult) - A CRUD framework for full stack TypeScript
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -543,7 +543,7 @@
 - [smallbets/userbase](https://github.com/smallbets/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
@@ -1456,6 +1456,7 @@
 
 ## others 
 
+- [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [ccorcos/tuple-database](https://github.com/ccorcos/tuple-database) - 
 - [openairplay/airplay2-receiver](https://github.com/openairplay/airplay2-receiver) - AirPlay 2 Receiver - Python implementation
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
@@ -1949,7 +1950,7 @@
 - [isnowfy/simple](https://github.com/isnowfy/simple) - A static blog generator with a single static page
 - [marijnh/heckle](https://github.com/marijnh/heckle) - JavaScript-based Jekyll clone
 - [markcho/iTerm2_LiquidCarbon](https://github.com/markcho/iTerm2_LiquidCarbon) - Liquid Carbon colorscheme for iTerm2.
-- [eclipse/californium.core](https://github.com/eclipse/californium.core) - Californium project
+- [eclipse-archived/californium.core](https://github.com/eclipse-archived/californium.core) - Californium project
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [awslabs/dynamodb-transactions](https://github.com/awslabs/dynamodb-transactions) - 
 - [amazon-archives/dynamodb-geo](https://github.com/amazon-archives/dynamodb-geo) - 
@@ -2336,7 +2337,7 @@
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [async-graphql/async-graphql](https://github.com/async-graphql/async-graphql) - A GraphQL server library implemented in Rust
