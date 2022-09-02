@@ -990,7 +990,7 @@
 - [localstack/awscli-local](https://github.com/localstack/awscli-local) - 💲  "awslocal" - Thin wrapper around the "aws" command line interface for use with LocalStack
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
 - [rpgreen/apilogs](https://github.com/rpgreen/apilogs) - Easy logging and debugging for Amazon API Gateway and AWS Lambda Serverless APIs
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [aws-samples/aws-lambda-manage-rds-connections](https://github.com/aws-samples/aws-lambda-manage-rds-connections) - Sample code for dynamically managing RDS/RDBMS connections across a fleet of Lambda functions
 - [alexdebrie/serverless-dynamodb-backups](https://github.com/alexdebrie/serverless-dynamodb-backups) - Automate your DynamoDB backups! ⚡️
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -1336,7 +1336,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name 
 - [microsoft/vscode-react-native](https://github.com/microsoft/vscode-react-native) - VSCode extension for React Native - supports debugging and editor integration
-- [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!
+- [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
