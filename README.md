@@ -877,7 +877,7 @@
 - [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
 - [nanoframework/Home](https://github.com/nanoframework/Home) - :house: The landing page for .NET nanoFramework repositories.
 - [SyncFree/antidote_db](https://github.com/SyncFree/antidote_db) - 
-- [jasonelle/jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
+- [jasonelle-archive/jasonelle](https://github.com/jasonelle-archive/jasonelle) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
 - [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [psequel/psequel](https://github.com/psequel/psequel) - Free PostgreSQL GUI tool for macOS.
