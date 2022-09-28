@@ -892,6 +892,7 @@
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) - fossjobs.net based on jobberbase
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
@@ -1777,7 +1778,7 @@
 - [mbrevoort/node-reggie](https://github.com/mbrevoort/node-reggie) - An experimental light weight alternative to a full blown npm registry
 - [rlidwka/sinopia](https://github.com/rlidwka/sinopia) - Private npm repository server
 - [amazon-archives/aws-hal-client-java](https://github.com/amazon-archives/aws-hal-client-java) - Java client for the Hypertext Application Language
-- [aws-solutions/aws-limit-monitor](https://github.com/aws-solutions/aws-limit-monitor) - Customizable Lambda functions to proactively notify you when you are about to hit an AWS service limit. Requires Enterprise or Business level support to access Support API.
+- [aws-solutions/quota-monitor-for-aws](https://github.com/aws-solutions/quota-monitor-for-aws) - Customizable Lambda functions to proactively notify you when you are about to hit an AWS service limit. Requires Enterprise or Business level support to access Support API.
 - [aws/aws-cloudtrail-processing-library](https://github.com/aws/aws-cloudtrail-processing-library) - The AWS CloudTrail Processing Library helps Java developers to easily consume and process log files from AWS CloudTrail.
 - [aws-samples/aws-lambda-fanout](https://github.com/aws-samples/aws-lambda-fanout) - A sample AWS Lambda function that accepts messages from an Amazon Kinesis Stream and transfers the messages to another data transport.
 - [aws/aws-encryption-sdk-java](https://github.com/aws/aws-encryption-sdk-java) - AWS Encryption SDK
