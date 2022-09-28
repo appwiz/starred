@@ -650,7 +650,7 @@
 - [facebookarchive/nuclide](https://github.com/facebookarchive/nuclide) - An open IDE for web and native mobile development, built on top of Atom
 - [mbrevoort/node-reggie](https://github.com/mbrevoort/node-reggie) - An experimental light weight alternative to a full blown npm registry
 - [rlidwka/sinopia](https://github.com/rlidwka/sinopia) - Private npm repository server
-- [aws-solutions/aws-limit-monitor](https://github.com/aws-solutions/aws-limit-monitor) - Customizable Lambda functions to proactively notify you when you are about to hit an AWS service limit. Requires Enterprise or Business level support to access Support API.
+- [aws-solutions/quota-monitor-for-aws](https://github.com/aws-solutions/quota-monitor-for-aws) - Customizable Lambda functions to proactively notify you when you are about to hit an AWS service limit. Requires Enterprise or Business level support to access Support API.
 - [aws-samples/aws-lambda-fanout](https://github.com/aws-samples/aws-lambda-fanout) - A sample AWS Lambda function that accepts messages from an Amazon Kinesis Stream and transfers the messages to another data transport.
 - [jsdf/ReactNativeHackerNews](https://github.com/jsdf/ReactNativeHackerNews) - React Native Hacker News app
 - [7kfpun/FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) - [Deprecated] iOS's Stocks App clone written in React Native for demo purpose (available both iOS and Android).
