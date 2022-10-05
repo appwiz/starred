@@ -634,7 +634,7 @@
 - [Staffjoy/v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - all microservices in a monorepo
 - [gofore/aws-emr](https://github.com/gofore/aws-emr) - A demonstration of Amazon Elastic MapReduce
 - [frnsys/the_founder](https://github.com/frnsys/the_founder) - start a company, ruin the world
-- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [fbsamples/f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2017, powered by React Native and other Facebook open source projects.
 - [Jasonette/JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - 📡 Native App over HTTP, on iOS
 - [dataminr/react-components](https://github.com/dataminr/react-components) - 
@@ -1095,7 +1095,7 @@
 
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
-- [drifting-in-space/spawner](https://github.com/drifting-in-space/spawner) - Session backend orchestrator for ambitious browser-based apps.
+- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps.
 - [comnik/declarative-dataflow](https://github.com/comnik/declarative-dataflow) - A reactive query engine built on differential dataflow.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
