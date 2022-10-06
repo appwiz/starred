@@ -1037,7 +1037,7 @@
 - [cloudtools/awacs](https://github.com/cloudtools/awacs) - Python library for AWS Access Policy Language creation
 - [garnaat/kappa](https://github.com/garnaat/kappa) - What precedes Lambda
 - [cloudtools/troposphere](https://github.com/cloudtools/troposphere) - troposphere - Python library to create AWS CloudFormation descriptions
-- [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
+- [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [xethorn/garcon](https://github.com/xethorn/garcon) - Library for AWS SWF
 - [google/lab_device_proxy](https://github.com/google/lab_device_proxy) - Executes adb and idevice commands on a remote host.
 - [herrjemand/visas](https://github.com/herrjemand/visas) - THIS PROJECT ABANDONED!!!! VISIT https://github.com/StrudelInc/visas2
