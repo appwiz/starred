@@ -190,6 +190,7 @@
 - [gioblu/PJON](https://github.com/gioblu/PJON) - PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [ssidpat/powerext](https://github.com/ssidpat/powerext) - PowerExt - Developer Tools
 - [hirotakaster/MQTT](https://github.com/hirotakaster/MQTT) - MQTT for Photon, Spark Core
@@ -789,7 +790,6 @@
 - [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS.
 - [lucaspbordignon/rn-apple-healthkit](https://github.com/lucaspbordignon/rn-apple-healthkit) - A React Native package for interacting with Apple HealthKit
 - [ReactNativeSchool/react-native-flatlist-demo](https://github.com/ReactNativeSchool/react-native-flatlist-demo) - 
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [KiteSync/realm-sync-js](https://github.com/KiteSync/realm-sync-js) - Offline first mobile syncing library
 - [idehub/react-native-google-analytics-bridge](https://github.com/idehub/react-native-google-analytics-bridge) - React Native bridge to the Google Analytics libraries on both iOS and Android.
 - [arashpayan/appirater](https://github.com/arashpayan/appirater) - A utility that reminds your iPhone app's users to review the app.
