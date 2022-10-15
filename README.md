@@ -215,6 +215,7 @@
 
 - [symkat/MarkdownSite](https://github.com/symkat/MarkdownSite) - Create a website from a git repository in one click
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
+- [finos/legend](https://github.com/finos/legend) - The Legend project
 - [healeycodes/inkbyexample](https://github.com/healeycodes/inkbyexample) - ✒ A hands-on introduction to Ink using annotated example programs.
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [inloop/sqlite-viewer](https://github.com/inloop/sqlite-viewer) - View SQLite file online
@@ -1178,7 +1179,6 @@
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - additional functionality via binary patching
 - [shivasiddharth/RaspberryPi-Factory-Reset](https://github.com/shivasiddharth/RaspberryPi-Factory-Reset) - Repository to create a Raspberry Pi OS with a factory reset or system refresh or full system restore option.
 - [limepepper/raspberry-pi-factory-reset](https://github.com/limepepper/raspberry-pi-factory-reset) - Pi OS images which have been modified to allow a factory reset
-- [finos/legend](https://github.com/finos/legend) - The Legend project
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
