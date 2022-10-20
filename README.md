@@ -285,7 +285,7 @@
 ## Go 
 
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [livekit/livekit](https://github.com/livekit/livekit) - Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
+- [livekit/livekit](https://github.com/livekit/livekit) - End to end stack for WebRTC. SFU media server, SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
 - [syncsynchalt/illustrated-tls12](https://github.com/syncsynchalt/illustrated-tls12) - The Illustrated TLS 1.2 Connection: Every byte explained
 - [proofrock/ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
