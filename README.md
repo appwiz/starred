@@ -1219,7 +1219,7 @@
 - [thii/Unxip](https://github.com/thii/Unxip) - A Swift command line tool to extract signed archives (.xip files).
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [liuliu/dflat](https://github.com/liuliu/dflat) - Structured Data Store for Mobile
-- [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
+- [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 - [CameraKit/camerakit-ios](https://github.com/CameraKit/camerakit-ios) - Library for iOS Camera API. Massively increase performance and ease of use within your next iOS Project.
 - [amzn/smoke-framework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language.
 - [amzn/smoke-aws-generate](https://github.com/amzn/smoke-aws-generate) - Code generator to generate the SmokeAWS library from service models.
