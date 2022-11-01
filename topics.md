@@ -778,7 +778,6 @@
 
 - [adobe/git-server](https://github.com/adobe/git-server) - A GitHub Protocol & API emulation
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [github-rs/github-rs](https://github.com/github-rs/github-rs) - Pure Rust bindings to the Github API
 - [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS
 - [github/VisualStudio](https://github.com/github/VisualStudio) - GitHub Extension for Visual Studio
@@ -787,7 +786,6 @@
 ## github-api 
 
 - [adobe/git-server](https://github.com/adobe/git-server) - A GitHub Protocol & API emulation
-- [github-rs/github-rs](https://github.com/github-rs/github-rs) - Pure Rust bindings to the Github API
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [pksunkara/octonode](https://github.com/pksunkara/octonode) - github api v3 in nodejs
 
