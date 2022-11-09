@@ -1249,6 +1249,7 @@
 
 ## library 
 
+- [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
