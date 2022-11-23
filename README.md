@@ -405,7 +405,7 @@
 ## Haskell 
 
 - [jez/calz](https://github.com/jez/calz) - :calendar: A natural language alternative to Unix 'cal'
-- [tweag/asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
+- [tweag/asterius](https://github.com/tweag/asterius) - DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Java 
