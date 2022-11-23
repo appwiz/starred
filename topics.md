@@ -243,7 +243,6 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [rpgreen/apilogs](https://github.com/rpgreen/apilogs) - Easy logging and debugging for Amazon API Gateway and AWS Lambda Serverless APIs
 - [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [pksunkara/octonode](https://github.com/pksunkara/octonode) - github api v3 in nodejs
 
 ## arduino 
@@ -483,7 +482,7 @@
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-- [tweag/asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
+- [tweag/asterius](https://github.com/tweag/asterius) - DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc
 - [mgechev/tiny-compiler](https://github.com/mgechev/tiny-compiler) - A tiny evaluator and compiler of arithmetic expressions.
 - [VPanjeta/ModiScript](https://github.com/VPanjeta/ModiScript) - Acche din aa gaye
 
@@ -966,7 +965,7 @@
 
 ## haskell 
 
-- [tweag/asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
+- [tweag/asterius](https://github.com/tweag/asterius) - DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## homebrew 
