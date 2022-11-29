@@ -92,6 +92,7 @@
 - [facebookarchive/fb-adb](https://github.com/facebookarchive/fb-adb) - A better shell for Android devices
 - [glyptodon/guacamole-server](https://github.com/glyptodon/guacamole-server) - The Guacamole project is now Apache Guacamole (http://guacamole.apache.org/). This repository has been repurposed as the base for the Apache Guacamole packages built for Glyptodon Enterprise.
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
+- [microsoft/WinObjC](https://github.com/microsoft/WinObjC) - Objective-C for Windows
 - [Wikinaut/agrep](https://github.com/Wikinaut/agrep) - AGREP - approximate GREP for fast fuzzy string searching. Files are searched for a string or regular expression, with approximate matching capabilities and user-definable records. Developed 1989-1991 
 - [paparazzi/paparazzi](https://github.com/paparazzi/paparazzi) - Paparazzi is a free and open-source hardware and software project for unmanned (air) vehicles. This is the main software repository.
 - [mridgers/clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
@@ -867,7 +868,6 @@
 ## Objective-C++ 
 
 - [facebook/componentkit](https://github.com/facebook/componentkit) - A React-inspired view framework for iOS.
-- [microsoft/WinObjC](https://github.com/microsoft/WinObjC) - Objective-C for Windows
 
 ## OpenSCAD 
 
@@ -1192,6 +1192,7 @@
 
 ## Shell 
 
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
 - [0xdanelia/wifi](https://github.com/0xdanelia/wifi) - Command line tool for managing wifi connections using iwd and dmenu
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
