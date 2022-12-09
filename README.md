@@ -418,7 +418,7 @@
 - [leangen/graphql-spqr](https://github.com/leangen/graphql-spqr) - Build a GraphQL service in seconds
 - [vmware/differential-datalog](https://github.com/vmware/differential-datalog) - DDlog is a programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes. A DDlog programmer does not writ
 - [aws-samples/amazon-textract-searchable-pdf](https://github.com/aws-samples/amazon-textract-searchable-pdf) - Generate searchable pdf documents from scanned documents with Amazon Textract
-- [gitblit/gitblit](https://github.com/gitblit/gitblit) - pure java git solution
+- [gitblit-org/gitblit](https://github.com/gitblit-org/gitblit) - pure java git solution
 - [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructur
 - [ryenus/hsqldb](https://github.com/ryenus/hsqldb) - Unofficial mirror of HSQLDB, namely HyperSQL Database. It is a relational database management system and a set of tools written in Java. For h2, see: https://github.com/h2database/h2database
 - [manifold-systems/manifold-sample-graphql-app](https://github.com/manifold-systems/manifold-sample-graphql-app) - A sample application demonstrating the GraphQL Manifold
