@@ -1116,7 +1116,7 @@
 ## javascript 
 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40%-60%), but is fully open source.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
@@ -1611,7 +1611,7 @@
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [amzn/smoke-framework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language.
 - [amzn/smoke-aws-generate](https://github.com/amzn/smoke-aws-generate) - Code generator to generate the SmokeAWS library from service models.
-- [amzn/ion-schema-kotlin](https://github.com/amzn/ion-schema-kotlin) - A Kotlin reference implementation of the Ion Schema Specification.
+- [amazon-ion/ion-schema-kotlin](https://github.com/amazon-ion/ion-schema-kotlin) - A Kotlin reference implementation of the Ion Schema Specification.
 - [zigtools/zpm](https://github.com/zigtools/zpm) - Package dependency generator; WIP
 - [perwendel/spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
 - [trevorjay/atinybasic](https://github.com/trevorjay/atinybasic) - A Tiny Basic: An Actually Tiny BASIC for Arduino
