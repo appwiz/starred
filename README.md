@@ -984,7 +984,7 @@
 - [DuckbillGroup/followercount](https://github.com/DuckbillGroup/followercount) - Track how many Twitter followers an account has over time.
 - [mattclay/aws-terminator](https://github.com/mattclay/aws-terminator) - An AWS Lambda function for cleaning up AWS resources.
 - [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
-- [spulec/moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
+- [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [okigan/awscurl](https://github.com/okigan/awscurl) - curl-like access to AWS resources with AWS Signature Version 4 request signing.
