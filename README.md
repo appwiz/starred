@@ -443,6 +443,7 @@
 - [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
 - [awslabs/dynamodb-cross-region-library](https://github.com/awslabs/dynamodb-cross-region-library) - A library to facilitate cross-region replication with Amazon DynamoDB Streams.
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+- [luggit/react-native-config](https://github.com/luggit/react-native-config) - Bring some 12 factor love to your mobile apps!
 - [morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts) - React Native Contacts
 - [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 - [OneBusAway/onebusaway-alexa](https://github.com/OneBusAway/onebusaway-alexa) - An Java-based app to communicate with Amazon Alexa for devices such as the Amazon Echo
@@ -1087,7 +1088,6 @@
 - [bloom-lang/bud](https://github.com/bloom-lang/bud) - Prototype Bud runtime (Bloom Under Development)
 - [theswiftdev/awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
 - [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
-- [luggit/react-native-config](https://github.com/luggit/react-native-config) - Bring some 12 factor love to your mobile apps!
 - [aws-samples/aws-device-farm-calabash-tests-for-sample-app](https://github.com/aws-samples/aws-device-farm-calabash-tests-for-sample-app) - 
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [nomad/houston](https://github.com/nomad/houston) - Apple Push Notifications; No Dirigible Required
