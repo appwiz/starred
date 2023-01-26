@@ -1536,6 +1536,7 @@
 
 ## others 
 
+- [awslabs/dynamodb-shell](https://github.com/awslabs/dynamodb-shell) - 
 - [GuntherRademacher/rr](https://github.com/GuntherRademacher/rr) - RR - Railroad Diagram Generator
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [lambci/awslambda.nim](https://github.com/lambci/awslambda.nim) - A package to compile nim functions for AWS Lambda
