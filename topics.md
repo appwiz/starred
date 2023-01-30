@@ -1536,6 +1536,7 @@
 
 ## others 
 
+- [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [awslabs/dynamodb-shell](https://github.com/awslabs/dynamodb-shell) - 
 - [GuntherRademacher/rr](https://github.com/GuntherRademacher/rr) - RR - Railroad Diagram Generator
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
