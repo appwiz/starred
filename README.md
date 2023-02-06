@@ -200,7 +200,7 @@
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
-- [ssidpat/powerext](https://github.com/ssidpat/powerext) - PowerExt - Developer Tools
+- [sxarad/powerext](https://github.com/sxarad/powerext) - PowerExt - Developer Tools
 - [hirotakaster/MQTT](https://github.com/hirotakaster/MQTT) - MQTT for Photon, Spark Core
 - [sleroux/google-breakpad-ios](https://github.com/sleroux/google-breakpad-ios) - Fork of google-breakpad (https://code.google.com/p/google-breakpad/) with iOS-friendly changes
 - [couchbaselabs/breakpad](https://github.com/couchbaselabs/breakpad) - 
