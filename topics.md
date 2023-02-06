@@ -1802,7 +1802,7 @@
 - [awslabs/dynamodb-cross-region-library](https://github.com/awslabs/dynamodb-cross-region-library) - A library to facilitate cross-region replication with Amazon DynamoDB Streams.
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer
 - [sshnet/SSH.NET](https://github.com/sshnet/SSH.NET) - SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.
-- [ssidpat/powerext](https://github.com/ssidpat/powerext) - PowerExt - Developer Tools
+- [sxarad/powerext](https://github.com/sxarad/powerext) - PowerExt - Developer Tools
 - [pmengal/MailSystem.NET](https://github.com/pmengal/MailSystem.NET) - Great email library for C#.
 - [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) - Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse "out of the web" HTML
 - [adajos/FabTab](https://github.com/adajos/FabTab) - WPF custom tab control
