@@ -618,7 +618,7 @@
 - [edufarre/SimpleSwipeApp](https://github.com/edufarre/SimpleSwipeApp) - Little app sample using React Native programming language of a swiping app.
 - [taskrabbit/ReactNativeSampleApp](https://github.com/taskrabbit/ReactNativeSampleApp) - Example app in React Native: sort of like twitter/tumblr
 - [apigee/trireme](https://github.com/apigee/trireme) - Embed Node.js inside a Java Virtual Machine
-- [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+- [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [sid88in/serverless-appsync-plugin](https://github.com/sid88in/serverless-appsync-plugin) - serverless plugin for appsync
