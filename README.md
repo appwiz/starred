@@ -245,6 +245,7 @@
 
 ## Clojure 
 
+- [montaigneio/montaigne](https://github.com/montaigneio/montaigne) - Document system for keeping personal journals and wikis.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [nathanmarz/storm-deploy](https://github.com/nathanmarz/storm-deploy) - One click deploy for Storm clusters on AWS
 
@@ -621,7 +622,6 @@
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
-- [sid88in/serverless-appsync-plugin](https://github.com/sid88in/serverless-appsync-plugin) - serverless plugin for appsync
 - [Anstinus/lazy-linq](https://github.com/Anstinus/lazy-linq) - A full port of LINQ for javascript. It works fully in 'lazy' mode for the best performance.
 - [redux-offline/redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
 - [amazon-archives/awsmobile-cli](https://github.com/amazon-archives/awsmobile-cli) - CLI experience for Frontend developers in the JavaScript ecosystem.
@@ -1356,6 +1356,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
+- [sid88in/serverless-appsync-plugin](https://github.com/sid88in/serverless-appsync-plugin) - serverless plugin for appsync
 - [weinand/vscode-processes](https://github.com/weinand/vscode-processes) - Provide access to all VS Code child processes
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
