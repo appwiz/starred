@@ -511,6 +511,7 @@
 
 ## JavaScript 
 
+- [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 - [mikeal/prolly-trees](https://github.com/mikeal/prolly-trees) - Hash consistent search trees.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
