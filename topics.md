@@ -543,6 +543,7 @@
 
 ## css 
 
+- [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [turnoffthelights/Turn-Off-the-Lights-Firefox-extension-WebExtensions](https://github.com/turnoffthelights/Turn-Off-the-Lights-Firefox-extension-WebExtensions) - Firefox extension (WebExtensions)
@@ -1681,7 +1682,7 @@
 - [amzn/smoke-framework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language.
 - [amzn/smoke-aws-generate](https://github.com/amzn/smoke-aws-generate) - Code generator to generate the SmokeAWS library from service models.
 - [amazon-ion/ion-schema-kotlin](https://github.com/amazon-ion/ion-schema-kotlin) - A Kotlin reference implementation of the Ion Schema Specification.
-- [zigtools/zpm](https://github.com/zigtools/zpm) - Package dependency generator; WIP
+- [zigtools/zpm](https://github.com/zigtools/zpm) - Zig package manager helper
 - [perwendel/spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
 - [trevorjay/atinybasic](https://github.com/trevorjay/atinybasic) - A Tiny Basic: An Actually Tiny BASIC for Arduino
 - [NattyNarwhal/OpenWindows](https://github.com/NattyNarwhal/OpenWindows) - Shell namespace extension for showing open Explorer windows
