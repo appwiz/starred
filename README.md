@@ -545,7 +545,7 @@
 - [taion/graphql-type-json](https://github.com/taion/graphql-type-json) - JSON scalar type for GraphQL.js
 - [SudhagarS/graphql-type-decimal](https://github.com/SudhagarS/graphql-type-decimal) - Decimal scalar type for Graphql to represent currencies
 - [timfpark/react-native-location](https://github.com/timfpark/react-native-location) - React Native plug-in that provides GPS location information
-- [forwardemail/reserved-email-addresses-list](https://github.com/forwardemail/reserved-email-addresses-list) - List of 1250+ email addresses reserved for security concerns
+- [forwardemail/reserved-email-addresses-list](https://github.com/forwardemail/reserved-email-addresses-list) - List of 1250+ generic, admin, mailer-daemon, and no-reply usernames reserved for security concerns.  Made for @forwardemail.
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
 - [oslabs-beta/MiraCloud](https://github.com/oslabs-beta/MiraCloud) - AWS infrastructure visualizer & configuration tool
 - [mira-visualizer/mira](https://github.com/mira-visualizer/mira) - AWS infrastructure visualizer
