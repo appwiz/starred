@@ -1690,7 +1690,6 @@
 - [SudhagarS/graphql-type-decimal](https://github.com/SudhagarS/graphql-type-decimal) - Decimal scalar type for Graphql to represent currencies
 - [timfpark/react-native-location](https://github.com/timfpark/react-native-location) - React Native plug-in that provides GPS location information
 - [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation) - The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.
-- [forwardemail/reserved-email-addresses-list](https://github.com/forwardemail/reserved-email-addresses-list) - List of 1250+ email addresses reserved for security concerns
 - [LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words
 - [inloop/sqlite-viewer](https://github.com/inloop/sqlite-viewer) - View SQLite file online
 - [salesforce/ctrl](https://github.com/salesforce/ctrl) - Conditional Transformer Language Model for Controllable Generation
@@ -2513,6 +2512,7 @@
 ## security 
 
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Certificate Transparency Log Monitor
+- [forwardemail/reserved-email-addresses-list](https://github.com/forwardemail/reserved-email-addresses-list) - List of 1250+ generic, admin, mailer-daemon, and no-reply usernames reserved for security concerns.  Made for @forwardemail.
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
