@@ -696,7 +696,6 @@
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -788,7 +787,7 @@
 - [smallbets/userbase](https://github.com/smallbets/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 
 ## game 
 
@@ -1232,7 +1231,7 @@
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
@@ -1319,7 +1318,7 @@
 
 - [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 
 ## linux 
 
@@ -2365,7 +2364,7 @@
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue and yo
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 
 ## react-native 
