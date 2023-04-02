@@ -1202,6 +1202,7 @@
 
 ## Shell 
 
+- [RangeNetworks/dev](https://github.com/RangeNetworks/dev) - Start Here! Development Environment Tools and System Releases
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
 - [0xdanelia/wifi](https://github.com/0xdanelia/wifi) - Command line tool for managing wifi connections using iwd and dmenu
