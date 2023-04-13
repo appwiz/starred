@@ -142,7 +142,6 @@
 - [gmamaladze/globalmousekeyhook](https://github.com/gmamaladze/globalmousekeyhook) - This library allows you to tap keyboard and mouse, detect and record their activity even when an application is inactive and runs in background.
 - [alphaleonis/AlphaFS](https://github.com/alphaleonis/AlphaFS) - AlphaFS is a .NET library providing more complete Win32 file system functionality to the .NET platform than the standard System.IO classes.
 - [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
-- [itinance/react-native-fs](https://github.com/itinance/react-native-fs) - Native filesystem access for react-native
 - [OpenLiveWriter/OpenLiveWriter](https://github.com/OpenLiveWriter/OpenLiveWriter) - An open source fork of Windows Live Writer
 - [dotnet/wcf](https://github.com/dotnet/wcf) - This repo contains the client-oriented WCF libraries that enable applications built on .NET Core to communicate with WCF services.
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
@@ -203,6 +202,7 @@
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [sxarad/powerext](https://github.com/sxarad/powerext) - PowerExt - Developer Tools
+- [itinance/react-native-fs](https://github.com/itinance/react-native-fs) - Native filesystem access for react-native
 - [hirotakaster/MQTT](https://github.com/hirotakaster/MQTT) - MQTT for Photon, Spark Core
 - [sleroux/google-breakpad-ios](https://github.com/sleroux/google-breakpad-ios) - Fork of google-breakpad (https://code.google.com/p/google-breakpad/) with iOS-friendly changes
 - [couchbaselabs/breakpad](https://github.com/couchbaselabs/breakpad) - 
@@ -1356,7 +1356,6 @@
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [slicknode/graphql-query-complexity](https://github.com/slicknode/graphql-query-complexity) - GraphQL query complexity analysis and validation for graphql-js
-- [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [yarax/swagger-to-graphql](https://github.com/yarax/swagger-to-graphql) - Swagger to GraphQL API adapter
