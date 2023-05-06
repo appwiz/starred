@@ -338,7 +338,7 @@
 
 ## aws 
 
-- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Cloud Asset Management (CAM), Cloud Security Posture Management (CSPM), SaaS Security Posture Management (SSPM), and External Attack Surfac
+- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management, Security Posture Management, and External Attack Surface Management supporting 100s of services and evaluations to harden
 - [seligman/aws-ip-ranges](https://github.com/seligman/aws-ip-ranges) - Tracking the history and size of AWS's ip-ranges.json file
 - [nessjs/ness](https://github.com/nessjs/ness) - Deploy web sites and apps to your own cloud account effortlessly.
 - [awslabs/aws-repository-status-monitor](https://github.com/awslabs/aws-repository-status-monitor) - The AWS Repository Status Monitor helps open-source developers keep track of GitHub and Docker metrics for their open source projects.
@@ -539,7 +539,7 @@
 ## cpp 
 
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 
