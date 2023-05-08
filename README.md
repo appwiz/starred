@@ -939,7 +939,7 @@
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [fastlane-old/snapshot](https://github.com/fastlane-old/snapshot) - Automate taking localized screenshots of your iOS app on every device
 - [fastlane-old/spaceship](https://github.com/fastlane-old/spaceship) - Ruby library to access the Apple Dev Center and iTunes Connect
-- [tamsuiboy/IOS-Streaming-Browser](https://github.com/tamsuiboy/IOS-Streaming-Browser) - An embedded HTTP server for iPhone or iPad which steams the view in 1 second intervals.  This allows users to conduct presentations, or allows others to watch what you are doing on a screen.  It is de
+- [iCasablanca/IOS-Streaming-Browser](https://github.com/iCasablanca/IOS-Streaming-Browser) - An embedded HTTP server for iPhone or iPad which steams the view in 1 second intervals.  This allows users to conduct presentations, or allows others to watch what you are doing on a screen.  It is de
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [AltBeacon/spec](https://github.com/AltBeacon/spec) - AltBeacon Technical Specification
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
