@@ -2030,7 +2030,7 @@
 - [fastlane-old/spaceship](https://github.com/fastlane-old/spaceship) - Ruby library to access the Apple Dev Center and iTunes Connect
 - [project-imas/mdm-server](https://github.com/project-imas/mdm-server) - Sample iOS MDM server
 - [project-imas/security-check](https://github.com/project-imas/security-check) - Application level, attached debug detect and jailbreak checking
-- [tamsuiboy/IOS-Streaming-Browser](https://github.com/tamsuiboy/IOS-Streaming-Browser) - An embedded HTTP server for iPhone or iPad which steams the view in 1 second intervals.  This allows users to conduct presentations, or allows others to watch what you are doing on a screen.  It is de
+- [iCasablanca/IOS-Streaming-Browser](https://github.com/iCasablanca/IOS-Streaming-Browser) - An embedded HTTP server for iPhone or iPad which steams the view in 1 second intervals.  This allows users to conduct presentations, or allows others to watch what you are doing on a screen.  It is de
 - [facebookarchive/fb-adb](https://github.com/facebookarchive/fb-adb) - A better shell for Android devices
 - [facebookarchive/xctool](https://github.com/facebookarchive/xctool) - An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
 - [facebookarchive/xcbuild](https://github.com/facebookarchive/xcbuild) - Xcode-compatible build tool.
