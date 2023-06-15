@@ -357,7 +357,7 @@
 - [apeace/devicefarm](https://github.com/apeace/devicefarm) - Device Farm testing tool
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [nlf/dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X
-- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
+- [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [lukasmartinelli/pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [jehiah/json2csv](https://github.com/jehiah/json2csv) - command line tool to convert json to csv
