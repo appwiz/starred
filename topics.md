@@ -843,7 +843,7 @@
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [fteem/git-semantic-commits](https://github.com/fteem/git-semantic-commits) - Tiny semantic commit messages for Git.
-- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
+- [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [github/VisualStudio](https://github.com/github/VisualStudio) - GitHub Extension for Visual Studio
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 
@@ -862,7 +862,7 @@
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [adobe/git-server](https://github.com/adobe/git-server) - A GitHub Protocol & API emulation
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
+- [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [pksunkara/octonode](https://github.com/pksunkara/octonode) - github api v3 in nodejs
 
 ## go 
@@ -883,7 +883,7 @@
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
-- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
+- [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [rkt/rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
@@ -1049,7 +1049,7 @@
 - [aws/homebrew-aws](https://github.com/aws/homebrew-aws) - Homebrew is a package manager for macOS which provides easy installation and update management of additional software. This Tap (repository) contains the Formulae that are used in the macOS AMI that A
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's fish, bash, git, etc config files. good stuff.
-- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
+- [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 
 ## html 
 
