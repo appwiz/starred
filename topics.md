@@ -604,7 +604,7 @@
 - [hoytech/quadrable](https://github.com/hoytech/quadrable) - Authenticated multi-version database: sparse binary merkle tree with compact partial-tree proofs
 - [smallbets/userbase](https://github.com/smallbets/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
@@ -871,7 +871,7 @@
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
@@ -2642,7 +2642,7 @@
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
 - [cashapp/sqldelight](https://github.com/cashapp/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [partiql/partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) - PartiQL libraries and tools in Kotlin.
