@@ -316,7 +316,7 @@
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [mit-pdos/biscuit](https://github.com/mit-pdos/biscuit) - Biscuit research OS
 - [cube2222/jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [mailgun/gubernator](https://github.com/mailgun/gubernator) - High Performance Rate Limiting MicroService and Library
 - [lesovsky/noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -869,7 +869,6 @@
 - [guicocoa/pinview](https://github.com/guicocoa/pinview) - PIN Code Entry Screen for iOS
 - [Koolistov/Passcode](https://github.com/Koolistov/Passcode) - Simple 4-digit pass code entry
 - [zxingify/zxingify-objc](https://github.com/zxingify/zxingify-objc) - An Objective-C Port of ZXing
-- [urbanairship/ios-library](https://github.com/urbanairship/ios-library) - Urban Airship iOS SDK
 - [appcornerit/DeploydKit](https://github.com/appcornerit/DeploydKit) - DeploydKit makes it easy to add a professional web backend to your iOS app with Deployd.
 
 ## Objective-C++ 
@@ -1289,6 +1288,7 @@
 - [insidegui/WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS
 - [endSly/Cloudboard](https://github.com/endSly/Cloudboard) - Cloudboard is a remote over-http keyboard for iOS 8 written in Swift
 - [Glagnar/remote-controllable](https://github.com/Glagnar/remote-controllable) - Component that allows remote control of iOS apps
+- [urbanairship/ios-library](https://github.com/urbanairship/ios-library) - Urban Airship iOS SDK
 
 ## TSQL 
 
