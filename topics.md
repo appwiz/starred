@@ -977,6 +977,7 @@
 
 ## hacktoberfest 
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -2433,7 +2434,7 @@
 - [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools
 - [react-native-netinfo/react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native Network Info API for Android & iOS
 - [vincentriemer/react-native-dom](https://github.com/vincentriemer/react-native-dom) - An experimental, comprehensive port of React Native to the web.
-- [vonovak/react-navigation-header-buttons](https://github.com/vonovak/react-navigation-header-buttons) - Easily render header buttons for react-navigation.
+- [vonovak/react-navigation-header-buttons](https://github.com/vonovak/react-navigation-header-buttons) - Easily render header buttons for react-navigation
 - [bplowry/RunBenRun](https://github.com/bplowry/RunBenRun) - Sample app to try out some features of React Native/Expo
 - [edufarre/SimpleSwipeApp](https://github.com/edufarre/SimpleSwipeApp) - Little app sample using React Native programming language of a swiping app.
 - [lucaspbordignon/rn-apple-healthkit](https://github.com/lucaspbordignon/rn-apple-healthkit) - A React Native package for interacting with Apple HealthKit
@@ -2716,6 +2717,7 @@
 
 ## terminal 
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [nordtheme/iterm2](https://github.com/nordtheme/iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
