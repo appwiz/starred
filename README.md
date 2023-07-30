@@ -419,6 +419,7 @@
 
 ## Java 
 
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [GuntherRademacher/rr](https://github.com/GuntherRademacher/rr) - RR - Railroad Diagram Generator
 - [kawamuray/wasmtime-java](https://github.com/kawamuray/wasmtime-java) - Java or JVM-language binding for Wasmtime
 - [awslabs/amazon-dynamodb-lock-client](https://github.com/awslabs/amazon-dynamodb-lock-client) - The AmazonDynamoDBLockClient is a general purpose distributed locking library built on top of DynamoDB. It supports both coarse-grained and fine-grained locking.
