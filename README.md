@@ -283,7 +283,7 @@
 
 ## Emacs Lisp 
 
-- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
+- [susam/emfy](https://github.com/susam/emfy) - Tiny init.el for beginners to quickly set up vanilla Emacs
 - [ergoemacs/ergoemacs-mode](https://github.com/ergoemacs/ergoemacs-mode) - ergoemacs-mode
 
 ## Erlang 
@@ -987,6 +987,7 @@
 
 ## Python 
 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
@@ -1310,6 +1311,7 @@
 
 ## TypeScript 
 
+- [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities.
 - [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy — JSON CRDT, JSON CRDT Patch, JSON Patch, JSON Predicate, JSON Patch Extended, JSON Patch+ OT, MessagePack codec, JSON-Rx, JSON-RPC 2.0, JSON Pointer, Reactive-RPC, random JSON generator, JSO
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
