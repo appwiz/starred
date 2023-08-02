@@ -29,6 +29,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [code-review](#code-review)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [config](#config)
@@ -514,6 +515,10 @@
 ## clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
+## code-review 
+
+- [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities.
 
 ## compiler 
 
@@ -1629,7 +1634,6 @@
 
 ## others 
 
-- [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities.
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
