@@ -1374,7 +1374,7 @@
 - [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish
 - [pajoma/vscode-journal](https://github.com/pajoma/vscode-journal) - Lightweight journal and simple notes support for Visual Studio Code
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
-- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
+- [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [slicknode/graphql-query-complexity](https://github.com/slicknode/graphql-query-complexity) - GraphQL query complexity analysis and validation for graphql-js
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
