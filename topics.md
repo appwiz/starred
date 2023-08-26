@@ -203,7 +203,7 @@
 ## ai 
 
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
-- [poozlehq/poozle](https://github.com/poozlehq/poozle) - Open Source Plaid for LLMs
+- [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
@@ -269,7 +269,7 @@
 
 ## api 
 
-- [poozlehq/poozle](https://github.com/poozlehq/poozle) - Open Source Plaid for LLMs
+- [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -290,7 +290,7 @@
 
 ## artificial-intelligence 
 
-- [poozlehq/poozle](https://github.com/poozlehq/poozle) - Open Source Plaid for LLMs
+- [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [lucidrains/memorizing-transformers-pytorch](https://github.com/lucidrains/memorizing-transformers-pytorch) - Implementation of Memorizing Transformers (ICLR 2022), attention net augmented with indexing and retrieval of memories using approximate nearest neighbors, in Pytorch
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 
@@ -2797,7 +2797,7 @@
 ## typescript 
 
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
-- [poozlehq/poozle](https://github.com/poozlehq/poozle) - Open Source Plaid for LLMs
+- [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
