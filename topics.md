@@ -1884,7 +1884,7 @@
 - [ghostery/local-sheriff](https://github.com/ghostery/local-sheriff) - Think of Local sheriff as a recon tool in your browser (WebExtension). While you normally browse the internet, Local Sheriff works in the background to empower you in identifying what data points (PII
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [gioblu/PJON](https://github.com/gioblu/PJON) - PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
-- [BurntSushi/toml-test](https://github.com/BurntSushi/toml-test) - A language agnostic test suite for TOML parsers.
+- [toml-lang/toml-test](https://github.com/toml-lang/toml-test) - A language agnostic test suite for TOML parsers.
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [noahg/gatsby-starter-blog-no-styles](https://github.com/noahg/gatsby-starter-blog-no-styles) - Copy of gatsby-starter-blog sanitized of styling decisions
 - [perlin-network/life](https://github.com/perlin-network/life) - A secure WebAssembly VM catered for decentralized applications.
