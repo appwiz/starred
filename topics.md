@@ -1442,6 +1442,7 @@
 
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [fermoya/SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Native Pager in SwiftUI
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1693,7 +1694,6 @@
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 - [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
 - [ansiwave/nimwave](https://github.com/ansiwave/nimwave) - TUIs for the terminal, desktop, and web
 - [awslabs/amazon-dynamodb-lock-client](https://github.com/awslabs/amazon-dynamodb-lock-client) - The AmazonDynamoDBLockClient is a general purpose distributed locking library built on top of DynamoDB. It supports both coarse-grained and fine-grained locking.
