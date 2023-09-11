@@ -1322,6 +1322,7 @@
 
 ## TypeScript 
 
+- [RecipeUI/RecipeUI](https://github.com/RecipeUI/RecipeUI) - Discover, test, and share APIs in seconds
 - [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Open source AI sidekick for everyone.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
