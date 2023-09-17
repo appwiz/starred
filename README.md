@@ -313,7 +313,7 @@
 - [syncsynchalt/illustrated-tls12](https://github.com/syncsynchalt/illustrated-tls12) - The Illustrated TLS 1.2 Connection: Every byte explained
 - [proofrock/ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
+- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
 - [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A playground for jq, written in Go
@@ -1095,7 +1095,7 @@
 - [garnaat/kappa](https://github.com/garnaat/kappa) - What precedes Lambda
 - [cloudtools/troposphere](https://github.com/cloudtools/troposphere) - troposphere - Python library to create AWS CloudFormation descriptions
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
-- [xethorn/garcon](https://github.com/xethorn/garcon) - Library for AWS SWF
+- [xethorn/garcon](https://github.com/xethorn/garcon) - Library for AWS SWF.
 - [google/lab_device_proxy](https://github.com/google/lab_device_proxy) - Executes adb and idevice commands on a remote host.
 - [herrjemand/visas](https://github.com/herrjemand/visas) - THIS PROJECT ABANDONED!!!! VISIT https://github.com/StrudelInc/visas2
 - [openpaperwork/paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager (Linux/Windows) -- Moved to Gnome's Gitlab
