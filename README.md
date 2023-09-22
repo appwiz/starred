@@ -290,7 +290,7 @@
 
 ## Emacs Lisp 
 
-- [susam/emfy](https://github.com/susam/emfy) - Tiny init.el for beginners to quickly set up vanilla Emacs
+- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
 - [ergoemacs/ergoemacs-mode](https://github.com/ergoemacs/ergoemacs-mode) - ergoemacs-mode
 
 ## Erlang 
