@@ -202,7 +202,7 @@
 
 ## ai 
 
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
@@ -230,7 +230,7 @@
 
 ## android 
 
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
@@ -1051,6 +1051,7 @@
 - [redux-offline/redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
+- [sshnet/SSH.NET](https://github.com/sshnet/SSH.NET) - SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
@@ -1119,7 +1120,7 @@
 
 ## ios 
 
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
@@ -1221,7 +1222,7 @@
 
 ## javascript 
 
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -1387,7 +1388,7 @@
 
 ## library 
 
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -1946,7 +1947,6 @@
 - [fstab/docker-aws-cli](https://github.com/fstab/docker-aws-cli) - Docker image for running the AWS command line interface.
 - [awslabs/dynamodb-cross-region-library](https://github.com/awslabs/dynamodb-cross-region-library) - A library to facilitate cross-region replication with Amazon DynamoDB Streams.
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer
-- [sshnet/SSH.NET](https://github.com/sshnet/SSH.NET) - SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.
 - [sxarad/powerext](https://github.com/sxarad/powerext) - PowerExt - Developer Tools
 - [pmengal/MailSystem.NET](https://github.com/pmengal/MailSystem.NET) - Great email library for C#.
 - [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) - Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse "out of the web" HTML
@@ -2435,7 +2435,7 @@
 
 ## react 
 
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [gmsgowtham/react-native-marked](https://github.com/gmsgowtham/react-native-marked) - Markdown renderer for React Native powered by marked.js
@@ -2479,7 +2479,7 @@
 
 ## react-native 
 
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [gmsgowtham/react-native-marked](https://github.com/gmsgowtham/react-native-marked) - Markdown renderer for React Native powered by marked.js
 - [react-native-community/directory](https://github.com/react-native-community/directory) - A searchable and filterable directory of React Native libraries.
 - [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript.
@@ -2807,7 +2807,7 @@
 
 ## typescript 
 
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
