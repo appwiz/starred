@@ -631,7 +631,7 @@
 - [proofrock/ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
 - [hoytech/quadrable](https://github.com/hoytech/quadrable) - Authenticated multi-version database: sparse binary merkle tree with compact partial-tree proofs
 - [smallbets/userbase](https://github.com/smallbets/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
@@ -1084,6 +1084,7 @@
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 
 ## haskell 
@@ -2329,7 +2330,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [lesovsky/noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL
@@ -2592,7 +2593,7 @@
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [zhihu/rucene](https://github.com/zhihu/rucene) - Rust port of Lucene
 - [mosuka/bayard](https://github.com/mosuka/bayard) - A full-text search and indexing server written in Rust.
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
@@ -2712,7 +2713,7 @@
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [proofrock/ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is an Operational Data Warehouse: A cloud data warehouse with streaming internals, built for work that needs action on what’s happening right now.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [cashapp/sqldelight](https://github.com/cashapp/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
