@@ -569,7 +569,7 @@
 - [mozilla-extensions/aboutsync](https://github.com/mozilla-extensions/aboutsync) - A Firefox addon to show information about Sync.
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [choojs/nanographql](https://github.com/choojs/nanographql) - Tiny graphQL client library
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [joewalnes/reconnecting-websocket](https://github.com/joewalnes/reconnecting-websocket) - A small decorator for the JavaScript WebSocket API that automatically reconnects
 - [ottypes/rich-text](https://github.com/ottypes/rich-text) - Format for representing rich text documents and changes
