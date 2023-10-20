@@ -1050,7 +1050,6 @@
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [dotnet/winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET UI framework for building Windows desktop applications.
 - [dnnrly/abbreviate](https://github.com/dnnrly/abbreviate) - Supporting your devops by shortening your strings using common abbreviations and clever guesswork
-- [aws/aws-toolkit-jetbrains](https://github.com/aws/aws-toolkit-jetbrains) - AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [nordtheme/iterm2](https://github.com/nordtheme/iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
 - [statiqdev/Statiq.Web](https://github.com/statiqdev/Statiq.Web) - Statiq Web is a flexible static site generator written in .NET.
@@ -1687,7 +1686,7 @@
 - [simonw/llm-llama-cpp](https://github.com/simonw/llm-llama-cpp) - LLM plugin for running models using llama.cpp
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
