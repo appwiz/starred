@@ -1989,7 +1989,6 @@
 - [chrisanthropic/chrisanthropic.github.io](https://github.com/chrisanthropic/chrisanthropic.github.io) - 
 - [Jasonette/JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - 📡 Native App over HTTP, on iOS
 - [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
-- [dataminr/react-components](https://github.com/dataminr/react-components) - 
 - [ergoemacs/ergoemacs-mode](https://github.com/ergoemacs/ergoemacs-mode) - ergoemacs-mode
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
