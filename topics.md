@@ -148,7 +148,6 @@
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
-- [r](#r)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -455,7 +454,6 @@
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native infrastructure
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
@@ -552,6 +550,7 @@
 - [tweag/asterius](https://github.com/tweag/asterius) - DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc
 - [mgechev/tiny-compiler](https://github.com/mgechev/tiny-compiler) - A tiny evaluator and compiler of arithmetic expressions.
 - [VPanjeta/ModiScript](https://github.com/VPanjeta/ModiScript) - Acche din aa gaye
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 
 ## computer-science 
 
@@ -1213,7 +1212,7 @@
 - [jasonelle-archive/jasonelle-v2](https://github.com/jasonelle-archive/jasonelle-v2) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [SwellRT/swellrt](https://github.com/SwellRT/swellrt) - SwellRT main project. Server, JavaScript and Java clients
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [aws/aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) - The official AWS SDK for Java - Version 2
 - [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
@@ -1279,7 +1278,6 @@
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [Level/awesome](https://github.com/Level/awesome) - An open list of awesome Level modules and resources.
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [pshihn/workly](https://github.com/pshihn/workly) - A really simple way to move a function or class to a web worker. 🏋️‍♀️→ 😄
@@ -2390,7 +2388,6 @@
 - [cantools/cantools](https://github.com/cantools/cantools) - CAN bus tools.
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [VPanjeta/ModiScript](https://github.com/VPanjeta/ModiScript) - Acche din aa gaye
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [kz26/mailproxy](https://github.com/kz26/mailproxy) - mailproxy is a simple SMTP proxy. It receives emails through an unencrypted, unauthenticated SMTP interface and retransmits them through a remote SMTP server that requires modern features such as encr
@@ -2432,10 +2429,6 @@
 
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
-
-## r 
-
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 
 ## rails 
 
@@ -2583,7 +2576,6 @@
 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [nomad-cli/houston](https://github.com/nomad-cli/houston) - Apple Push Notifications; No Dirigible Required
