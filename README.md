@@ -1432,7 +1432,7 @@
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
