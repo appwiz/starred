@@ -171,6 +171,7 @@
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sql-server](#sql-server)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [svelte](#svelte)
@@ -1348,7 +1349,7 @@
 
 ## json 
 
-- [streamich/json-joy](https://github.com/streamich/json-joy) - json-joy — JSON CRDT, JSON CRDT Patch, JSON Patch, JSON Predicate, JSON Patch Extended, JSON Patch+ OT, MessagePack codec, JSON-Rx, JSON-RPC 2.0, JSON Pointer, Reactive-RPC, random JSON generator, JSO
+- [streamich/json-joy](https://github.com/streamich/json-joy) - JSON CRDT, JSON CRDT Patch, JSON Patch+, JSON Predicate, CBOR, MessagePack, UBJSON, JSON Reactive RPC, JSON-RPC 2.0, JSON Pointer, JSON Expression, JSON Type
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.
@@ -1732,7 +1733,6 @@
 - [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
 - [0xdanelia/wifi](https://github.com/0xdanelia/wifi) - Command line tool for managing wifi connections using iwd and dmenu
 - [carekit-apple/CareKit](https://github.com/carekit-apple/CareKit) - CareKit is an open source software framework for creating apps that help people better understand and manage their health.
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [keltrycroft/marvin](https://github.com/keltrycroft/marvin) - 
 - [zutrinken/attila](https://github.com/zutrinken/attila) - Ghost Theme
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
@@ -2736,6 +2736,18 @@
 ## sql-server 
 
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+
+## sqlite 
+
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.
+- [proofrock/ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
+- [bradleyboy/tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from a SQLite database or a SQL file
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+- [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 
 ## statistics 
 
