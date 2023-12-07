@@ -678,7 +678,6 @@
 - [davideast/firebase-react-native-sample](https://github.com/davideast/firebase-react-native-sample) - Using React Native with Firebase
 - [ptmt/react-native-macos](https://github.com/ptmt/react-native-macos) - [deprecated in favor of https://microsoft.github.io/react-native-windows/] React Native for macOS is an experimental fork for writing desktop apps using Cocoa
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
-- [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [facebookarchive/nuclide](https://github.com/facebookarchive/nuclide) - An open IDE for web and native mobile development, built on top of Atom
 - [mbrevoort/node-reggie](https://github.com/mbrevoort/node-reggie) - An experimental light weight alternative to a full blown npm registry
 - [rlidwka/sinopia](https://github.com/rlidwka/sinopia) - Private npm repository server
@@ -1176,7 +1175,7 @@
 - [nickel-org/nickel.rs](https://github.com/nickel-org/nickel.rs) - An expressjs inspired web framework for Rust
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [async-graphql/async-graphql](https://github.com/async-graphql/async-graphql) - A GraphQL server library implemented in Rust
@@ -1421,6 +1420,7 @@
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [dabbott/javascript-playgrounds](https://github.com/dabbott/javascript-playgrounds) - An interactive JavaScript sandbox
 - [este/este](https://github.com/este/este) - This repo is suspended.
+- [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [aws-solutions/quota-monitor-for-aws](https://github.com/aws-solutions/quota-monitor-for-aws) - This solution leverages AWS Trusted Advisor and Service Quotas to monitor AWS resource usage and raise alerts.
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
