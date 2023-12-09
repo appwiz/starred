@@ -1361,7 +1361,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [Urigo/graphql-scalars](https://github.com/Urigo/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
-- [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - Fully functional GraphQL gateway framework
+- [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - Anything to GraphQL gateway framework
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [IBM/graphql-query-generator](https://github.com/IBM/graphql-query-generator) - Randomly generates GraphQL queries from a GraphQL schema
