@@ -1687,6 +1687,7 @@
 
 ## others 
 
+- [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [att/uwin](https://github.com/att/uwin) - Unix on Windows 95 and NT Machines
 - [deislabs/spiderlightning](https://github.com/deislabs/spiderlightning) - A set of WIT definitions and associated implementations to enable app developers to work at a faster pace and require less knowledge of the environment in which they are executing.
