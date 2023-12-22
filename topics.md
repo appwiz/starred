@@ -980,7 +980,7 @@
 - [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - Libraries for running GraphQL in Kotlin
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [Urigo/graphql-scalars](https://github.com/Urigo/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
-- [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - Anything to GraphQL gateway framework
+- [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - The Graph of Everything - Federated architecture for any API service
 - [async-graphql/async-graphql](https://github.com/async-graphql/async-graphql) - A GraphQL server library implemented in Rust
 - [JetBrains/js-graphql-intellij-plugin](https://github.com/JetBrains/js-graphql-intellij-plugin) - GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based on the IntelliJ Platform.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
@@ -1687,6 +1687,7 @@
 
 ## others 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [att/uwin](https://github.com/att/uwin) - Unix on Windows 95 and NT Machines
@@ -2578,7 +2579,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - Anything to GraphQL gateway framework
+- [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - The Graph of Everything - Federated architecture for any API service
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
