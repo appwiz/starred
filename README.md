@@ -213,6 +213,7 @@
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [sxarad/powerext](https://github.com/sxarad/powerext) - PowerExt - Developer Tools
 - [itinance/react-native-fs](https://github.com/itinance/react-native-fs) - Native filesystem access for react-native
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [hirotakaster/MQTT](https://github.com/hirotakaster/MQTT) - MQTT for Photon, Spark Core
 - [sleroux/google-breakpad-ios](https://github.com/sleroux/google-breakpad-ios) - Fork of google-breakpad (https://code.google.com/p/google-breakpad/) with iOS-friendly changes
 - [couchbaselabs/breakpad](https://github.com/couchbaselabs/breakpad) - 
@@ -485,7 +486,6 @@
 - [CleverTap/apns-http2](https://github.com/CleverTap/apns-http2) - A Java library for sending notifications via APNS using Apple's HTTP/2 API.
 - [scottyab/rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app
 - [aknostic/elasticsearch-cloudwatch](https://github.com/aknostic/elasticsearch-cloudwatch) - Elasticsearch plugin which posts ES data to CloudWatch
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [airbrake/airbrake-android](https://github.com/airbrake/airbrake-android) - Exception tracking for Android Apps.
 - [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects. JSON, Jackson, Gson, JAX-RS integrations included
 - [bitstadium/HockeySDK-Android](https://github.com/bitstadium/HockeySDK-Android) - HockeyApp was retired and the SDKs are deprecated. Please use App Center instead.
@@ -792,6 +792,7 @@
 
 ## MDX 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
