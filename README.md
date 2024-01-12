@@ -240,7 +240,6 @@
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [healeycodes/inkbyexample](https://github.com/healeycodes/inkbyexample) - ✒ A hands-on introduction to Ink using annotated example programs.
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
-- [inloop/sqlite-viewer](https://github.com/inloop/sqlite-viewer) - View SQLite file online
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -566,6 +565,7 @@
 - [SudhagarS/graphql-type-decimal](https://github.com/SudhagarS/graphql-type-decimal) - Decimal scalar type for Graphql to represent currencies
 - [timfpark/react-native-location](https://github.com/timfpark/react-native-location) - React Native plug-in that provides GPS location information
 - [forwardemail/reserved-email-addresses-list](https://github.com/forwardemail/reserved-email-addresses-list) - List of 1250+ generic, admin, mailer-daemon, and no-reply usernames reserved for security concerns.  Made for @forwardemail.
+- [inloop/sqlite-viewer](https://github.com/inloop/sqlite-viewer) - View SQLite file online
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
 - [oslabs-beta/MiraCloud](https://github.com/oslabs-beta/MiraCloud) - AWS infrastructure visualizer & configuration tool
 - [mira-visualizer/mira](https://github.com/mira-visualizer/mira) - AWS infrastructure visualizer
