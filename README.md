@@ -991,7 +991,7 @@
 
 ## PowerShell 
 
-- [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
+- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, releases notes, and more!
 
 ## Processing 
 
