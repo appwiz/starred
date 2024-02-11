@@ -1543,7 +1543,7 @@
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
-- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
+- [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
 - [fabe/gatsby-starter-deck](https://github.com/fabe/gatsby-starter-deck) - 🗣 Create presentations using Gatsby, React & Markdown.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -2684,7 +2684,7 @@
 - [am0d/rusty-razor](https://github.com/am0d/rusty-razor) - Rusty razor - A Rust implementation of the Razor view engine.
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [rusoto/rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust
-- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
+- [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [rustwasm/wasm_game_of_life](https://github.com/rustwasm/wasm_game_of_life) - A Rust and WebAssembly tutorial implementing the Game of Life
 - [rabbitstack/rabbitc](https://github.com/rabbitstack/rabbitc) - Micro container runtime
 - [graphql-rust/graphql-parser](https://github.com/graphql-rust/graphql-parser) - A graphql query language and schema definition language parser and formatter for rust
