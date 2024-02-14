@@ -929,7 +929,7 @@
 
 ## go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
@@ -959,7 +959,7 @@
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 - [platypusguy/jacobin](https://github.com/platypusguy/jacobin) - A more than minimal JVM written in Go and capable of running Java 17 classes.
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
@@ -2146,7 +2146,7 @@
 - [prateek147/DVIA](https://github.com/prateek147/DVIA) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetrat
 - [oliverng/FalseSenseOfSecurity](https://github.com/oliverng/FalseSenseOfSecurity) - Example iOS app that performs basic debugging and ptrace checks
 - [endSly/Cloudboard](https://github.com/endSly/Cloudboard) - Cloudboard is a remote over-http keyboard for iOS 8 written in Swift
-- [Glagnar/remote-controllable](https://github.com/Glagnar/remote-controllable) - Component that allows remote control of iOS apps
+- [glagnar/remote-controllable](https://github.com/glagnar/remote-controllable) - Component that allows remote control of iOS apps
 - [uxmstudio/UIScreenCapture](https://github.com/uxmstudio/UIScreenCapture) - Simply capture screenshots and create screen recordings from code in iOS.
 - [alskipp/ASScreenRecorder](https://github.com/alskipp/ASScreenRecorder) - Record iOS screen contents to .mp4 video file
 - [intrepidusgroup/imdmtools](https://github.com/intrepidusgroup/imdmtools) - Intrepidus Group's iOS MDM tools
