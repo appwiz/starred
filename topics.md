@@ -1732,7 +1732,7 @@
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [rudymatela/evenmoreutils](https://github.com/rudymatela/evenmoreutils) - A collection of command line tools to extend the shell environment.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [att/uwin](https://github.com/att/uwin) - Unix on Windows 95 and NT Machines
