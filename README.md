@@ -717,7 +717,7 @@
 - [DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library
 - [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 - [modweb/most-exclusive-website](https://github.com/modweb/most-exclusive-website) - The most exclusive website in the Universe.
 - [nathanpdaniel/uber-api](https://github.com/nathanpdaniel/uber-api) - NodeJS implementation of Uber API
 - [shernshiou/node-uber](https://github.com/shernshiou/node-uber) - Uber API nodejs wrapper
