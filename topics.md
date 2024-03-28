@@ -377,7 +377,7 @@
 - [nessjs/ness](https://github.com/nessjs/ness) - Deploy web sites and apps to your own cloud account effortlessly.
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [awslabs/aws-repository-status-monitor](https://github.com/awslabs/aws-repository-status-monitor) - The AWS Repository Status Monitor helps open-source developers keep track of GitHub and Docker metrics for their open source projects.
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance ELT framework powered by Apache Arrow
 - [agorf/dyndns53](https://github.com/agorf/dyndns53) - Run your own dynamic DNS service with Amazon Route 53
 - [aws/ec2-macos-init](https://github.com/aws/ec2-macos-init) - EC2 macOS Init is the launch daemon used to initialize Mac instances within EC2.
 - [aws/homebrew-aws](https://github.com/aws/homebrew-aws) - Homebrew is a package manager for macOS which provides easy installation and update management of additional software. This Tap (repository) contains the Formulae that are used in the macOS AMI that A
@@ -423,7 +423,7 @@
 ## azure 
 
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance ELT framework powered by Apache Arrow
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [Odonno/gitter-bot-how-to](https://github.com/Odonno/gitter-bot-how-to) - A tutorial on how to make a Gitter Bot
 
@@ -624,14 +624,14 @@
 
 ## data 
 
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance ELT framework powered by Apache Arrow
 - [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, s
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 
 ## data-analysis 
 
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance ELT framework powered by Apache Arrow
 
 ## data-science 
 
@@ -928,7 +928,7 @@
 
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [adobe/git-server](https://github.com/adobe/git-server) - A GitHub Protocol & API emulation
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance ELT framework powered by Apache Arrow
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [pksunkara/octonode](https://github.com/pksunkara/octonode) - github api v3 in nodejs
 
@@ -937,7 +937,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance ELT framework powered by Apache Arrow
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -989,7 +989,7 @@
 
 ## google 
 
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance ELT framework powered by Apache Arrow
 
 ## graphql 
 
@@ -1402,7 +1402,7 @@
 ## kubernetes 
 
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance ELT framework powered by Apache Arrow
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
@@ -2794,7 +2794,7 @@
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [proofrock/ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via http
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance ELT framework powered by Apache Arrow
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [cashapp/sqldelight](https://github.com/cashapp/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
