@@ -2332,7 +2332,7 @@
 - [jxnblk/Ashley](https://github.com/jxnblk/Ashley) - A Readable & Responsive Theme for Tumblr
 - [nsanta/openoverflow](https://github.com/nsanta/openoverflow) - Open Source implementation of stackoverflow app (not maintained)
 - [riptano/ccm](https://github.com/riptano/ccm) - A script to easily create and destroy an Apache Cassandra cluster on localhost
-- [mjibson/goread](https://github.com/mjibson/goread) - RSS reader in go on app engine; formerly goread.io
+- [maddyblue/goread](https://github.com/maddyblue/goread) - RSS reader in go on app engine; formerly goread.io
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [kr/paxos](https://github.com/kr/paxos) - Basic paxos
 - [beanstalkd/beanstalkd](https://github.com/beanstalkd/beanstalkd) - Beanstalk is a simple, fast work queue.
