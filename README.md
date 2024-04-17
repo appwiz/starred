@@ -756,7 +756,7 @@
 - [deployd/deployd](https://github.com/deployd/deployd) - a toolkit for building realtime APIs
 - [nsanta/openoverflow](https://github.com/nsanta/openoverflow) - Open Source implementation of stackoverflow app (not maintained)
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
-- [mjibson/goread](https://github.com/mjibson/goread) - RSS reader in go on app engine; formerly goread.io
+- [maddyblue/goread](https://github.com/maddyblue/goread) - RSS reader in go on app engine; formerly goread.io
 - [roshansingh/realtime-notifications](https://github.com/roshansingh/realtime-notifications) - Realtime notifications using nodejs, socket.io and redis
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
