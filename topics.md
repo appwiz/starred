@@ -2283,7 +2283,7 @@
 - [boot2docker/boot2docker](https://github.com/boot2docker/boot2docker) - DEPRECATED; see https://github.com/boot2docker/boot2docker/pull/1408
 - [ottawaruby/whenbot](https://github.com/ottawaruby/whenbot) - A simple personal ifttt.com clone
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
-- [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. The entire thing. Yep, we're completely open source.
+- [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. Yep, the backend is (mostly) open source.
 - [Estimote/iOS-Indoor-SDK](https://github.com/Estimote/iOS-Indoor-SDK) - Estimote Indoor SDK for iOS
 - [agl/pond](https://github.com/agl/pond) - Pond
 - [ttscoff/nv](https://github.com/ttscoff/nv) - MultiMarkdown version of Notational Velocity with Markdown editing features and preview
