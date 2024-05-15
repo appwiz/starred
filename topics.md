@@ -598,7 +598,7 @@
 
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 
 ## csharp 
@@ -901,18 +901,18 @@
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
-- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 
 ## game-development 
 
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
-- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 
 ## game-engine 
 
-- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 - [dhewm/dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 main repository
 
 ## gamedev 
@@ -1099,7 +1099,7 @@
 - [forem/DEV-ios](https://github.com/forem/DEV-ios) - DEV Community iOS App
 - [react-native-community/cli](https://github.com/react-native-community/cli) - React Native command line tools
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
-- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 - [dotnet/winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET UI framework for building Windows desktop applications.
 - [dnnrly/abbreviate](https://github.com/dnnrly/abbreviate) - Supporting your devops by shortening your strings using common abbreviations and clever guesswork
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
@@ -1476,7 +1476,7 @@
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
-- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [rabbitstack/rabbitc](https://github.com/rabbitstack/rabbitc) - Micro container runtime
 - [zachcurry/emacs-anywhere](https://github.com/zachcurry/emacs-anywhere) - Configurable automation + hooks called with application information
@@ -1753,7 +1753,7 @@
 
 ## opengl 
 
-- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [dhewm/dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 main repository
 
@@ -2493,7 +2493,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [lorenzodifuccia/safaribooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library.
 - [cantools/cantools](https://github.com/cantools/cantools) - CAN bus tools.
-- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 - [VPanjeta/ModiScript](https://github.com/VPanjeta/ModiScript) - Acche din aa gaye
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -2539,7 +2539,7 @@
 ## qt 
 
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 
 ## rails 
 
