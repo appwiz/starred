@@ -358,7 +358,7 @@
 - [toml-lang/toml-test](https://github.com/toml-lang/toml-test) - A language agnostic test suite for TOML parsers.
 - [perlin-network/life](https://github.com/perlin-network/life) - A secure WebAssembly VM catered for decentralized applications.
 - [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) - Fast, multi-purpose tool for AWS CloudWatch Logs
 - [iheanyi/go-grpc-graphql-simple-example](https://github.com/iheanyi/go-grpc-graphql-simple-example) - Just a simple example of gRPC + GraphQL + Go.
@@ -774,6 +774,7 @@
 
 ## Jupyter Notebook 
 
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
 - [burstable-ai/burst](https://github.com/burstable-ai/burst) - Command-line tool to remotely execute code in the cloud
@@ -1020,7 +1021,7 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [simonw/llm-llama-cpp](https://github.com/simonw/llm-llama-cpp) - LLM plugin for running models using llama.cpp
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g llama3) LLMs. Self-ho
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
@@ -1347,11 +1348,13 @@
 
 ## TeX 
 
+- [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [mit-pdos/xv6-riscv-book](https://github.com/mit-pdos/xv6-riscv-book) - Text describing xv6 on RISC-V
 - [patmorin/ods](https://github.com/patmorin/ods) - Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.
 
 ## TypeScript 
 
+- [bugbakery/transcribee](https://github.com/bugbakery/transcribee) - open source audio and video transcription software
 - [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium (x86-64) for Serverless Platforms
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
