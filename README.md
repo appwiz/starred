@@ -830,6 +830,7 @@
 ## Nix 
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+- [zigtools/zpm](https://github.com/zigtools/zpm) - Zig package manager helper
 
 ## Objective-C 
 
@@ -1486,7 +1487,6 @@
 
 ## Zig 
 
-- [zigtools/zpm](https://github.com/zigtools/zpm) - Zig package manager helper
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
