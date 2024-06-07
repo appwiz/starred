@@ -162,6 +162,7 @@
 - [microsoft/referencesource](https://github.com/microsoft/referencesource) - Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
 - [dotnet/msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+- [aws/aws-sdk-net](https://github.com/aws/aws-sdk-net) - The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:
 - [dotnet/reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
 - [NLog/NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
 - [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
@@ -980,7 +981,6 @@
 - [markcho/iTerm2_LiquidCarbon](https://github.com/markcho/iTerm2_LiquidCarbon) - Liquid Carbon colorscheme for iTerm2.
 - [eclipse-archived/californium.core](https://github.com/eclipse-archived/californium.core) - Californium project
 - [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java 1.x. The AWS SDK for Java 2.x is available here: https://github.com/aws/aws-sdk-java-v2/
-- [aws/aws-sdk-net](https://github.com/aws/aws-sdk-net) - The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:
 - [amazon-archives/aws-sdk-core-ruby](https://github.com/amazon-archives/aws-sdk-core-ruby) - This repository has moved to the master branch of aws/aws-sdk-ruby
 - [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
 - [npm/npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
