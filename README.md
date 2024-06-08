@@ -518,6 +518,7 @@
 - [awslabs/dynamodb-transactions](https://github.com/awslabs/dynamodb-transactions) - 
 - [amazon-archives/dynamodb-geo](https://github.com/amazon-archives/dynamodb-geo) - 
 - [aws/aws-dynamodb-encryption-java](https://github.com/aws/aws-dynamodb-encryption-java) - Amazon DynamoDB Encryption Client for Java
+- [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java 1.x. The AWS SDK for Java 2.x is available here: https://github.com/aws/aws-sdk-java-v2/
 - [aws-amplify/aws-sdk-android](https://github.com/aws-amplify/aws-sdk-android) - AWS SDK for Android. For more information, see our web site:
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 - [jeppetto/jeppetto-sample](https://github.com/jeppetto/jeppetto-sample) - 
@@ -980,7 +981,6 @@
 - [Simperium/simperium-protocol](https://github.com/Simperium/simperium-protocol) - Documentation on the Simperium client/server syncing protocol
 - [markcho/iTerm2_LiquidCarbon](https://github.com/markcho/iTerm2_LiquidCarbon) - Liquid Carbon colorscheme for iTerm2.
 - [eclipse-archived/californium.core](https://github.com/eclipse-archived/californium.core) - Californium project
-- [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java 1.x. The AWS SDK for Java 2.x is available here: https://github.com/aws/aws-sdk-java-v2/
 - [amazon-archives/aws-sdk-core-ruby](https://github.com/amazon-archives/aws-sdk-core-ruby) - This repository has moved to the master branch of aws/aws-sdk-ruby
 - [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
 - [npm/npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
@@ -1297,6 +1297,7 @@
 
 ## Swift 
 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [torrez/tyke](https://github.com/torrez/tyke) - 
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
