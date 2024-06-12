@@ -1124,7 +1124,7 @@
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [xethorn/garcon](https://github.com/xethorn/garcon) - Library for AWS SWF.
 - [google/lab_device_proxy](https://github.com/google/lab_device_proxy) - Executes adb and idevice commands on a remote host.
-- [herrjemand/visas](https://github.com/herrjemand/visas) - THIS PROJECT ABANDONED!!!! VISIT https://github.com/StrudelInc/visas2
+- [yackermann/visas](https://github.com/yackermann/visas) - THIS PROJECT ABANDONED!!!! VISIT https://github.com/StrudelInc/visas2
 - [openpaperwork/paperwork](https://github.com/openpaperwork/paperwork) - Personal document manager (Linux/Windows) -- Moved to Gnome's Gitlab
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [eudicots/Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers. Uses Python and Django templates.
