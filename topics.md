@@ -2291,7 +2291,7 @@
 - [google/lab_device_proxy](https://github.com/google/lab_device_proxy) - Executes adb and idevice commands on a remote host.
 - [DozerMapper/dozer](https://github.com/DozerMapper/dozer) - Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another.
 - [tessro/subethasmtp](https://github.com/tessro/subethasmtp) - Mirror of SubEtha SMTP: an easy-to-use server-side SMTP library for Java
-- [herrjemand/visas](https://github.com/herrjemand/visas) - THIS PROJECT ABANDONED!!!! VISIT https://github.com/StrudelInc/visas2
+- [yackermann/visas](https://github.com/yackermann/visas) - THIS PROJECT ABANDONED!!!! VISIT https://github.com/StrudelInc/visas2
 - [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
 - [Simperium/simperium-protocol](https://github.com/Simperium/simperium-protocol) - Documentation on the Simperium client/server syncing protocol
 - [yomorun/hashids-java](https://github.com/yomorun/hashids-java) - Hashids algorithm v1.0.0 implementation in Java
