@@ -214,6 +214,7 @@
 - [xamarin](#xamarin)
 - [xcode](#xcode)
 - [xml](#xml)
+- [zig](#zig)
 
 ## ai 
 
@@ -1904,7 +1905,6 @@
 - [amzn/smoke-framework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language.
 - [amzn/smoke-aws-generate](https://github.com/amzn/smoke-aws-generate) - Code generator to generate the SmokeAWS library from service models.
 - [amazon-ion/ion-schema-kotlin](https://github.com/amazon-ion/ion-schema-kotlin) - A Kotlin reference implementation of the Ion Schema Specification.
-- [zigtools/zpm](https://github.com/zigtools/zpm) - Zig package manager helper
 - [perwendel/spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
 - [trevorjay/atinybasic](https://github.com/trevorjay/atinybasic) - A Tiny Basic: An Actually Tiny BASIC for Arduino
 - [NattyNarwhal/OpenWindows](https://github.com/NattyNarwhal/OpenWindows) - Shell namespace extension for showing open Explorer windows
@@ -3130,6 +3130,11 @@
 
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
+
+## zig 
+
+- [zigtools/zpm](https://github.com/zigtools/zpm) - Zig package manager helper
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
