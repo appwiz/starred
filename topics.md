@@ -1789,6 +1789,7 @@
 
 ## others 
 
+- [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [bugbakery/transcribee](https://github.com/bugbakery/transcribee) - open source audio and video transcription software
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
