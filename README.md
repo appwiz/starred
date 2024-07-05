@@ -1443,7 +1443,7 @@
 - [SummerSun/vscode-azure-event-hub-explorer](https://github.com/SummerSun/vscode-azure-event-hub-explorer) - Azure Event Hub Explorer for Visual Studio Code
 - [kumarharsh/graphql-for-vscode](https://github.com/kumarharsh/graphql-for-vscode) - GraphQL syntax highlighting, linting, auto-complete, and more!
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [sid88in/serverless-appsync-plugin](https://github.com/sid88in/serverless-appsync-plugin) - serverless plugin for appsync
