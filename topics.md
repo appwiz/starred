@@ -1793,6 +1793,7 @@
 
 ## others 
 
+- [macstadium/orka-desktop](https://github.com/macstadium/orka-desktop) - Orka Desktop is a free, no obligation, virtualization tool, which is designed to be deployed on individual macOS workstations.
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [bugbakery/transcribee](https://github.com/bugbakery/transcribee) - open source audio and video transcription software
@@ -1973,7 +1974,6 @@
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [anywhichway/thunderclap](https://github.com/anywhichway/thunderclap) - A key-value, indexed JSON, and graph database plus function oriented server designed for Cloudflare
 - [awaescher/WinFormsCT](https://github.com/awaescher/WinFormsCT) - ☢️ The one and only computer tomographer for Windows Forms user interfaces
-- [AwsGeek/aws-history](https://github.com/AwsGeek/aws-history) - 
 - [xmonader/letsbuildacompiler-pretty](https://github.com/xmonader/letsbuildacompiler-pretty) - prettify let's build a compiler tutorial
 - [SwellRT/jetpad](https://github.com/SwellRT/jetpad) - Collaboration tool based on real-time text editing
 - [jeremydaly/lambda-warmer](https://github.com/jeremydaly/lambda-warmer) - A module to optimize AWS Lambda function cold starts
