@@ -406,7 +406,6 @@
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [quoteunquoteapps/CourierPrime](https://github.com/quoteunquoteapps/CourierPrime) - 
 - [brazzy/floating-point-gui.de](https://github.com/brazzy/floating-point-gui.de) - Website that provides concise  answers to common questions about floating-point numbers.
-- [AwsGeek/aws-history](https://github.com/AwsGeek/aws-history) - 
 - [xmonader/letsbuildacompiler-pretty](https://github.com/xmonader/letsbuildacompiler-pretty) - prettify let's build a compiler tutorial
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [slikts/concurrency-glossary](https://github.com/slikts/concurrency-glossary) - 🦑 Informal definitions of terms used in concurrency modeling
@@ -912,6 +911,7 @@
 
 ## Others 
 
+- [macstadium/orka-desktop](https://github.com/macstadium/orka-desktop) - Orka Desktop is a free, no obligation, virtualization tool, which is designed to be deployed on individual macOS workstations.
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [shelfio/chrome-aws-lambda-layer](https://github.com/shelfio/chrome-aws-lambda-layer) - 58 MB Google Chrome to fit inside AWS Lambda Layer compressed with Brotli
 - [petykowski/London-Underground-Dot-Matrix-Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface) - A set of dot matrix fonts in the style of TfL's Underground arrivals board.
