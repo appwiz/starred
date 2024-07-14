@@ -991,6 +991,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [aaronpk/iMessage-Export](https://github.com/aaronpk/iMessage-Export) - Archive your iMessage history to HTML, CSV or SQL
 - [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) - fossjobs.net based on jobberbase
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -1174,6 +1175,7 @@
 
 ## Rust 
 
+- [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) - Hermit for Rust.
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
