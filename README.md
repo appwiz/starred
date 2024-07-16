@@ -825,6 +825,7 @@
 
 ## Nim 
 
+- [khaledh/fusion](https://github.com/khaledh/fusion) - A hobby OS implemented in Nim
 - [lambci/awslambda.nim](https://github.com/lambci/awslambda.nim) - A package to compile nim functions for AWS Lambda
 - [ansiwave/nimwave](https://github.com/ansiwave/nimwave) - TUIs for the terminal, desktop, and web
 
@@ -1176,6 +1177,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) - Hermit for Rust.
