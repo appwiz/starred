@@ -499,6 +499,7 @@
 - [vavr-io/vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
 - [leakingtapan/rof](https://github.com/leakingtapan/rof) - Reflection object factory is a tool which assists in creating randomized Java objects in an easy way
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [AltBeacon/android-beacon-library](https://github.com/AltBeacon/android-beacon-library) - Allows Android apps to interact with BLE beacons
@@ -973,7 +974,6 @@
 - [fastlane-old/snapshot](https://github.com/fastlane-old/snapshot) - Automate taking localized screenshots of your iOS app on every device
 - [fastlane-old/spaceship](https://github.com/fastlane-old/spaceship) - Ruby library to access the Apple Dev Center and iTunes Connect
 - [iCasablanca/IOS-Streaming-Browser](https://github.com/iCasablanca/IOS-Streaming-Browser) - An embedded HTTP server for iPhone or iPad which steams the view in 1 second intervals.  This allows users to conduct presentations, or allows others to watch what you are doing on a screen.  It is de
-- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [AltBeacon/spec](https://github.com/AltBeacon/spec) - AltBeacon Technical Specification
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
