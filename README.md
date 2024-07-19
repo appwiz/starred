@@ -509,7 +509,7 @@
 - [0xD34D/OpenBuildProp](https://github.com/0xD34D/OpenBuildProp) - A simple application for submitting the contents of build.prop to a remote server
 - [turesheim/eclipse-launcher](https://github.com/turesheim/eclipse-launcher) - A simple Eclipse plug-in for macOS that will add a "Open Workspace" menu item to open a new instance of the application using the selected workspace.
 - [tozny/java-aes-crypto](https://github.com/tozny/java-aes-crypto) - A simple Android class for encrypting & decrypting strings, aiming to avoid the classic mistakes that most such classes suffer from.
-- [facebookarchive/stetho](https://github.com/facebookarchive/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
+- [facebook/stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
 - [DozerMapper/dozer](https://github.com/DozerMapper/dozer) - Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another.
 - [tessro/subethasmtp](https://github.com/tessro/subethasmtp) - Mirror of SubEtha SMTP: an easy-to-use server-side SMTP library for Java
