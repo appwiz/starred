@@ -2305,7 +2305,7 @@
 - [DavyLandman/AESLib](https://github.com/DavyLandman/AESLib) - Arduino Library for AES Encryption (source based on avr-crypto-lib)
 - [Octoate/ArduinoDES](https://github.com/Octoate/ArduinoDES) - DES and Triples DES encryption and decryption for the Arduino microcontroller platform
 - [httpwg/http2-spec](https://github.com/httpwg/http2-spec) - Working copy of the HTTP/2 Specification
-- [facebookarchive/stetho](https://github.com/facebookarchive/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
+- [facebook/stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [freebasic/fbc](https://github.com/freebasic/fbc) - FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to MS-QuickBASIC, that adds new features such as pointers, object orientation, unsigned data types, inli
 - [google/lab_device_proxy](https://github.com/google/lab_device_proxy) - Executes adb and idevice commands on a remote host.
 - [DozerMapper/dozer](https://github.com/DozerMapper/dozer) - Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another.
