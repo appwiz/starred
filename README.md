@@ -1433,7 +1433,7 @@
 - [react-native-netinfo/react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native Network Info API for Android & iOS
 - [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
 - [microsoft/vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
-- [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
+- [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
 - [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish
 - [pajoma/vscode-journal](https://github.com/pajoma/vscode-journal) - Lightweight journal and simple notes support for Visual Studio Code
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
