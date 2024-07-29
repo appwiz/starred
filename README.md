@@ -44,6 +44,7 @@
 - [PowerShell](#powershell)
 - [Processing](#processing)
 - [Python](#python)
+- [R](#r)
 - [Reason](#reason)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -308,6 +309,7 @@
 
 ## Go 
 
+- [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) - grep for words with similar meaning to the query
 - [icco/postmortems](https://github.com/icco/postmortems) - Postmortem metadata from danluu/post-mortems.
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -1136,6 +1138,10 @@
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [riptano/ccm](https://github.com/riptano/ccm) - A script to easily create and destroy an Apache Cassandra cluster on localhost
 - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+
+## R 
+
+- [CelVoxes/ceLLama](https://github.com/CelVoxes/ceLLama) - Cell type annotation with local Large Language Models (LLMs) - Ensuring privacy and speed with extensive customized reports
 
 ## Reason 
 
