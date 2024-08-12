@@ -317,6 +317,7 @@
 
 ## artificial-intelligence 
 
+- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [lucidrains/memorizing-transformers-pytorch](https://github.com/lucidrains/memorizing-transformers-pytorch) - Implementation of Memorizing Transformers (ICLR 2022), attention net augmented with indexing and retrieval of memories using approximate nearest neighbors, in Pytorch
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
@@ -1518,6 +1519,7 @@
 
 ## llm 
 
+- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [CelVoxes/ceLLama](https://github.com/CelVoxes/ceLLama) - Cell type annotation with local Large Language Models (LLMs) - Ensuring privacy and speed with extensive customized reports
 - [transcriptionstream/transcriptionstream](https://github.com/transcriptionstream/transcriptionstream) - turnkey self-hosted offline transcription and diarization service with llm summary
 - [mukel/llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
