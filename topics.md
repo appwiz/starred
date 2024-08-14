@@ -1805,6 +1805,7 @@
 
 ## others 
 
+- [Parrot-Developers/libpomp](https://github.com/Parrot-Developers/libpomp) - Printf Oriented Message Protocol
 - [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) - grep for words with similar meaning to the query
 - [my-other-github-account/imessage_tools](https://github.com/my-other-github-account/imessage_tools) - Tools for reading iMessage chat.db and sending iMessages on MacOS Ventura - including parsing capabilities for those pesky hidden attributedBody messages - as Ventura seems to like hiding a lot of iMe
 - [saubury/paranoid_text_LLM](https://github.com/saubury/paranoid_text_LLM) - Paranoid analysis of iMessage chats with OpenAI, LlamaIndex & DuckDB
