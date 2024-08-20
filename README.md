@@ -1020,7 +1020,7 @@
 
 ## Python 
 
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [my-other-github-account/imessage_tools](https://github.com/my-other-github-account/imessage_tools) - Tools for reading iMessage chat.db and sending iMessages on MacOS Ventura - including parsing capabilities for those pesky hidden attributedBody messages - as Ventura seems to like hiding a lot of iMe
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [transcriptionstream/transcriptionstream](https://github.com/transcriptionstream/transcriptionstream) - turnkey self-hosted offline transcription and diarization service with llm summary
