@@ -1998,7 +1998,7 @@
 - [SyncFree/antidote_db](https://github.com/SyncFree/antidote_db) - 
 - [jsonata-js/jsonata](https://github.com/jsonata-js/jsonata) - JSONata query and transformation language - http://jsonata.org
 - [nspin/spiderman](https://github.com/nspin/spiderman) - Exploration in browser-assisted web crawling
-- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
+- [dosyago/dn](https://github.com/dosyago/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
 - [ben-z/free-sidecar](https://github.com/ben-z/free-sidecar) - Enable Sidecar on Unsupported iPads and Macs running iPadOS 13 and macOS Catalina
 - [secretGeek/devShop](https://github.com/secretGeek/devShop) - the game of kanban
 - [google/safeside](https://github.com/google/safeside) - Understand and mitigate software-observable side-channels
