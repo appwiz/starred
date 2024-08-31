@@ -297,7 +297,7 @@
 
 ## Emacs Lisp 
 
-- [susam/emfy](https://github.com/susam/emfy) - A very basic dark and sleek Emacs setup for general purpose editing and programming
+- [susam/emfy](https://github.com/susam/emfy) - A dark and sleek Emacs setup for general purpose editing and programming
 - [ergoemacs/ergoemacs-mode](https://github.com/ergoemacs/ergoemacs-mode) - ergoemacs-mode
 
 ## Erlang 
@@ -528,7 +528,6 @@
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 - [jeppetto/jeppetto-sample](https://github.com/jeppetto/jeppetto-sample) - 
 - [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
-- [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [jeppetto/jeppetto](https://github.com/jeppetto/jeppetto) - 
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
@@ -798,6 +797,7 @@
 - [bugsnag/bugsnag-android](https://github.com/bugsnag/bugsnag-android) - BugSnag crash monitoring and reporting tool for Android apps
 - [redpen-cc/redpen-intellij-plugin](https://github.com/redpen-cc/redpen-intellij-plugin) - RedPen plugin for Intellij IDEA and other JetBrains IDEs
 - [square/wire](https://github.com/square/wire) - gRPC and protocol buffers for Android, Kotlin, Swift and Java.
+- [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 
 ## Lua 
 
