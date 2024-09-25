@@ -1375,6 +1375,7 @@
 
 ## TeX 
 
+- [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [pllk/cphb](https://github.com/pllk/cphb) - Competitive Programmer's Handbook
 - [mit-pdos/xv6-riscv-book](https://github.com/mit-pdos/xv6-riscv-book) - Text describing xv6 on RISC-V
 - [patmorin/ods](https://github.com/patmorin/ods) - Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.
