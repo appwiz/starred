@@ -1851,6 +1851,8 @@
 
 ## others 
 
+- [omrilotan/isbot](https://github.com/omrilotan/isbot) - 🤖/👨‍🦰 Detect bots/crawlers/spiders using the user agent string
+- [eob/isai](https://github.com/eob/isai) - 
 - [djc/awmy](https://github.com/djc/awmy) - arewemeetingyet.com: help communicate meeting times to timezone-challenged participants
 - [TerminalFi/LSP-copilot](https://github.com/TerminalFi/LSP-copilot) - GitHub Copilot support for Sublime Text LSP plugin provided through Copilot.vim.
 - [B00TK1D/copilot-api](https://github.com/B00TK1D/copilot-api) - GitHub Copilot API
