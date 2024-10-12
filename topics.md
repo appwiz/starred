@@ -1856,6 +1856,7 @@
 
 ## others 
 
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [omrilotan/isbot](https://github.com/omrilotan/isbot) - 🤖/👨‍🦰 Detect bots/crawlers/spiders using the user agent string
 - [eob/isai](https://github.com/eob/isai) - 
 - [djc/awmy](https://github.com/djc/awmy) - arewemeetingyet.com: help communicate meeting times to timezone-challenged participants
