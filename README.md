@@ -1018,6 +1018,7 @@
 
 ## Python 
 
+- [c0wsaysmoo/plane-tracker-rgb-pi](https://github.com/c0wsaysmoo/plane-tracker-rgb-pi) - 
 - [djc/awmy](https://github.com/djc/awmy) - arewemeetingyet.com: help communicate meeting times to timezone-challenged participants
 - [TerminalFi/LSP-copilot](https://github.com/TerminalFi/LSP-copilot) - GitHub Copilot support for Sublime Text LSP plugin provided through Copilot.vim.
 - [B00TK1D/copilot-api](https://github.com/B00TK1D/copilot-api) - GitHub Copilot API
