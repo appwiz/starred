@@ -13,7 +13,6 @@
 - [CoffeeScript](#coffeescript)
 - [Dart](#dart)
 - [Dhall](#dhall)
-- [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
@@ -53,6 +52,7 @@
 - [Shell](#shell)
 - [Swift](#swift)
 - [TSQL](#tsql)
+- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -279,10 +279,6 @@
 ## Dhall 
 
 - [dhall-lang/dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files
-
-## Dockerfile 
-
-- [sdr-enthusiasts/docker-piaware](https://github.com/sdr-enthusiasts/docker-piaware) - Multi-arch PiAware docker container including support for bladeRF, RTLSDR, SoapySDR. Includes dump1090 & dump978 (amd64, arm/v6, arm/v7, arm64v8)
 
 ## Elixir 
 
@@ -1368,6 +1364,10 @@
 ## TSQL 
 
 - [antontarasenko/smq](https://github.com/antontarasenko/smq) - A collection of SQL queries to social media datasets.
+
+## Tcl 
+
+- [sdr-enthusiasts/docker-piaware](https://github.com/sdr-enthusiasts/docker-piaware) - Multi-arch PiAware docker container including support for bladeRF, RTLSDR, SoapySDR. Includes dump1090 & dump978 (amd64, arm/v6, arm/v7, arm64v8)
 
 ## TeX 
 
