@@ -718,7 +718,7 @@
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
 - [zerotier/lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
@@ -1015,7 +1015,7 @@
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [dnnrly/abbreviate](https://github.com/dnnrly/abbreviate) - Supporting your devops by shortening your strings using common abbreviations and clever guesswork
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
@@ -1159,7 +1159,7 @@
 - [dnnrly/abbreviate](https://github.com/dnnrly/abbreviate) - Supporting your devops by shortening your strings using common abbreviations and clever guesswork
 - [nordtheme/iterm2](https://github.com/nordtheme/iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
 - [statiqdev/Statiq.Web](https://github.com/statiqdev/Statiq.Web) - Statiq Web is a flexible static site generator written in .NET.
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [vonovak/react-navigation-header-buttons](https://github.com/vonovak/react-navigation-header-buttons) - Easily render header buttons for react-navigation
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
@@ -1348,7 +1348,6 @@
 - [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 
@@ -1722,7 +1721,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 
 ## nativescript 
 
@@ -2918,7 +2917,7 @@
 - [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [luisfarzati/chromda](https://github.com/luisfarzati/chromda) - λ 🖼️ Chromda is an AWS Lambda function for capturing screenshots of websites.
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [amazon-archives/aws-mobile-react-native-starter](https://github.com/amazon-archives/aws-mobile-react-native-starter) - AWS Mobile React Native Starter App     https://aws.amazon.com/mobile
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [open-lambda/open-lambda](https://github.com/open-lambda/open-lambda) - An open source serverless computing platform
@@ -2968,7 +2967,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [partiql/partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) - PartiQL libraries and tools in Kotlin.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
 
 ## sql-server 
