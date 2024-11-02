@@ -251,7 +251,6 @@
 - [helios-framework/helios](https://github.com/helios-framework/helios) - An extensible open-source mobile backend framework
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
-- [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. Yep, the backend is open source!
 - [o2platform/o2platform.github.com](https://github.com/o2platform/o2platform.github.com) - home page for this github site (SEE o2platform.github.com website for the real thing)
 - [jxnblk/Ashley](https://github.com/jxnblk/Ashley) - A Readable & Responsive Theme for Tumblr
 
@@ -519,7 +518,7 @@
 - [awslabs/dynamodb-transactions](https://github.com/awslabs/dynamodb-transactions) - 
 - [amazon-archives/dynamodb-geo](https://github.com/amazon-archives/dynamodb-geo) - 
 - [aws/aws-dynamodb-encryption-java](https://github.com/aws/aws-dynamodb-encryption-java) - Amazon DynamoDB Encryption Client for Java
-- [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java 1.x. The AWS SDK for Java 2.x is available here: https://github.com/aws/aws-sdk-java-v2/
+- [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java 1.x (In Maintenance Mode, End-of-Life on 12/31/2025). The AWS SDK for Java 2.x is available here: https://github.com/aws/aws-sdk-java-v2/
 - [aws-amplify/aws-sdk-android](https://github.com/aws-amplify/aws-sdk-android) - AWS SDK for Android. For more information, see our web site:
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 - [jeppetto/jeppetto-sample](https://github.com/jeppetto/jeppetto-sample) - 
@@ -732,6 +731,7 @@
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
+- [neocities/neocities](https://github.com/neocities/neocities) - Neocities.org - the web site. Yep, the backend is open source!
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [designmodo/Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
