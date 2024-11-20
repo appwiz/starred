@@ -1404,7 +1404,6 @@
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [Dennitz/Timetable](https://github.com/Dennitz/Timetable) - Simple timetable app built with React Native
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
@@ -1619,7 +1618,6 @@
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
-- [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [niw/HapticKey](https://github.com/niw/HapticKey) - A simple utility application to trigger haptic feedback when tapping Touch Bar.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
@@ -2021,6 +2019,7 @@
 - [oslabs-beta/MiraCloud](https://github.com/oslabs-beta/MiraCloud) - AWS infrastructure visualizer & configuration tool
 - [mira-visualizer/mira](https://github.com/mira-visualizer/mira) - AWS infrastructure visualizer
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - macFUSE umbrella repository
 - [quoteunquoteapps/CourierPrime](https://github.com/quoteunquoteapps/CourierPrime) - 
 - [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
 - [brazzy/floating-point-gui.de](https://github.com/brazzy/floating-point-gui.de) - Website that provides concise  answers to common questions about floating-point numbers.
@@ -2666,7 +2665,7 @@
 
 ## react 
 
-- [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host and open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, and Vite. https://someday-dem
+- [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host and open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, and Vite.  https://someday-de
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -3085,7 +3084,7 @@
 
 ## typescript 
 
-- [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host and open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, and Vite. https://someday-dem
+- [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host and open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, and Vite.  https://someday-de
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
