@@ -448,7 +448,7 @@
 - [aws-samples/amazon-textract-searchable-pdf](https://github.com/aws-samples/amazon-textract-searchable-pdf) - Generate searchable pdf documents from scanned documents with Amazon Textract
 - [gitblit-org/gitblit](https://github.com/gitblit-org/gitblit) - pure java git solution
 - [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructur
-- [ryenus/hsqldb](https://github.com/ryenus/hsqldb) - Unofficial mirror of HSQLDB (https://hsqldb.org/), namely HyperSQL Database. It is a relational database management system and a set of tools written in Java. For h2, see: https://github.com/h2databas
+- [ryenus/hsqldb](https://github.com/ryenus/hsqldb) - Unofficial mirror of HSQLDB (https://sf.net/p/hsqldb/), namely HyperSQL Database. It is a relational database management system and a set of tools written in Java. For h2, see: https://github.com/h2da
 - [manifold-systems/manifold-sample-graphql-app](https://github.com/manifold-systems/manifold-sample-graphql-app) - A sample application demonstrating the GraphQL Manifold
 - [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.
 - [perwendel/spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
