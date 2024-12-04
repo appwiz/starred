@@ -16,7 +16,7 @@
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
-- [FreeBasic](#freebasic)
+- [FreeBASIC](#freebasic)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -295,7 +295,7 @@
 
 - [biokoda/actordb](https://github.com/biokoda/actordb) - ActorDB distributed SQL database
 
-## FreeBasic 
+## FreeBASIC 
 
 - [freebasic/fbc](https://github.com/freebasic/fbc) - FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to MS-QuickBASIC, that adds new features such as pointers, object orientation, unsigned data types, inli
 
@@ -1195,7 +1195,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [jamsocket/plane](https://github.com/jamsocket/plane) - A distributed system for running WebSocket services at scale.
