@@ -1967,7 +1967,7 @@
 - [liuliu/dflat](https://github.com/liuliu/dflat) - Structured Data Store for Mobile
 - [mattclay/aws-terminator](https://github.com/mattclay/aws-terminator) - An AWS Lambda function for cleaning up AWS resources.
 - [carrotIndustries/pluto](https://github.com/carrotIndustries/pluto) - Pluto is a programmable digital watch that re-uses case and LCD panel of the Casio® F-91W. (Hardware)
-- [ryenus/hsqldb](https://github.com/ryenus/hsqldb) - Unofficial mirror of HSQLDB (https://hsqldb.org/), namely HyperSQL Database. It is a relational database management system and a set of tools written in Java. For h2, see: https://github.com/h2databas
+- [ryenus/hsqldb](https://github.com/ryenus/hsqldb) - Unofficial mirror of HSQLDB (https://sf.net/p/hsqldb/), namely HyperSQL Database. It is a relational database management system and a set of tools written in Java. For h2, see: https://github.com/h2da
 - [CaliDog/certstream-server](https://github.com/CaliDog/certstream-server) - Certificate Transparency Log aggregation, parsing, and streaming service written in Elixir
 - [antontarasenko/smq](https://github.com/antontarasenko/smq) - A collection of SQL queries to social media datasets.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
@@ -2818,7 +2818,7 @@
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust
 - [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) - Hermit for Rust.
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [jamsocket/plane](https://github.com/jamsocket/plane) - A distributed system for running WebSocket services at scale.
 - [vmware/differential-datalog](https://github.com/vmware/differential-datalog) - DDlog is a programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes. A DDlog programmer does not writ
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
