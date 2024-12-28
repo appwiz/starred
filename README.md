@@ -50,7 +50,6 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TSQL](#tsql)
 - [Tcl](#tcl)
@@ -537,6 +536,7 @@
 
 ## JavaScript 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 - [billchurch/webssh2](https://github.com/billchurch/webssh2) - Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
@@ -1012,6 +1012,7 @@
 
 ## Python 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [c0wsaysmoo/plane-tracker-rgb-pi](https://github.com/c0wsaysmoo/plane-tracker-rgb-pi) - 
 - [djc/awmy](https://github.com/djc/awmy) - arewemeetingyet.com: help communicate meeting times to timezone-challenged participants
 - [TerminalFi/LSP-copilot](https://github.com/TerminalFi/LSP-copilot) - GitHub Copilot support for Sublime Text LSP plugin provided through Copilot.vim.
@@ -1233,7 +1234,7 @@
 - [alex-shapiro/ditto](https://github.com/alex-shapiro/ditto) - CRDTs for common data structures like maps, vecs, sets, text, and JSON
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [kaj/rust-pdf](https://github.com/kaj/rust-pdf) - Generating PDF files in pure Rust
 - [kaj/chord3](https://github.com/kaj/chord3) - A command line program to create pdf songbooks from chopro source.
 - [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
@@ -1307,10 +1308,6 @@
 - [boot2docker/boot2docker](https://github.com/boot2docker/boot2docker) - DEPRECATED; see https://github.com/boot2docker/boot2docker/pull/1408
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
-
-## Svelte 
-
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Swift 
 
