@@ -1276,6 +1276,7 @@
 
 ## Shell 
 
+- [gbdev/rgbenv](https://github.com/gbdev/rgbenv) - RGBDS version manager
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [RangeNetworks/dev](https://github.com/RangeNetworks/dev) - Start Here! Development Environment Tools and System Releases
