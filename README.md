@@ -1169,7 +1169,7 @@
 - [nomad-cli/cupertino](https://github.com/nomad-cli/cupertino) - CLI for the Apple Dev Center
 - [nomad-cli/shenzhen](https://github.com/nomad-cli/shenzhen) - CLI for Building & Distributing iOS Apps (.ipa Files)
 - [aws/aws-codedeploy-agent](https://github.com/aws/aws-codedeploy-agent) - Host Agent for AWS CodeDeploy
-- [aws/aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
+- [aws/aws-sdk-ruby](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby
 - [amazon-archives/aws-flow-ruby](https://github.com/amazon-archives/aws-flow-ruby) - ARCHIVED
 - [progrium/timeapi](https://github.com/progrium/timeapi) - An online date/time parsing service, based on the 'chronic' ruby gem.
 - [ottawaruby/whenbot](https://github.com/ottawaruby/whenbot) - A simple personal ifttt.com clone
