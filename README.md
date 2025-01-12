@@ -1313,6 +1313,7 @@
 
 ## Swift 
 
+- [BoldContacts/boldcontacts-mobile-app-for-apple](https://github.com/BoldContacts/boldcontacts-mobile-app-for-apple) - BoldContacts mobile app for people with visual/cognitive/motor disabilities
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
