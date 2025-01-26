@@ -512,7 +512,7 @@
 - [DozerMapper/dozer](https://github.com/DozerMapper/dozer) - Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another.
 - [tessro/subethasmtp](https://github.com/tessro/subethasmtp) - Mirror of SubEtha SMTP: an easy-to-use server-side SMTP library for Java
 - [yomorun/hashids-java](https://github.com/yomorun/hashids-java) - Hashids algorithm v1.0.0 implementation in Java
-- [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
+- [aeron-io/aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 - [eclipse-archived/smarthome](https://github.com/eclipse-archived/smarthome) - Eclipse SmartHome™ project
 - [awslabs/dynamodb-transactions](https://github.com/awslabs/dynamodb-transactions) - 
 - [amazon-archives/dynamodb-geo](https://github.com/amazon-archives/dynamodb-geo) - 
