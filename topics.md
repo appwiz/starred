@@ -2115,7 +2115,7 @@
 - [GSA/plainlanguage.gov](https://github.com/GSA/plainlanguage.gov) - A resource to help federal employees write in plain language and comply with the Plain Writing Act of 2010
 - [rnc-archive/react-native-google-analytics](https://github.com/rnc-archive/react-native-google-analytics) - Google Analytics for React Native! Compatible with react-native-ab
 - [kaj/rust-pdf](https://github.com/kaj/rust-pdf) - Generating PDF files in pure Rust
-- [kaj/chord3](https://github.com/kaj/chord3) - A command line program to create pdf songbooks from chopro source.
+- [kaj/chord3](https://github.com/kaj/chord3) - Migrated to https://codeberg.org/rkaj/chord3
 - [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
 - [microsoft/vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
 - [kjpgit/techdemo](https://github.com/kjpgit/techdemo) - Random investigations.  A very low level tech blog.
