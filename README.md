@@ -1245,7 +1245,7 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [kaj/rust-pdf](https://github.com/kaj/rust-pdf) - Generating PDF files in pure Rust
-- [kaj/chord3](https://github.com/kaj/chord3) - A command line program to create pdf songbooks from chopro source.
+- [kaj/chord3](https://github.com/kaj/chord3) - Migrated to https://codeberg.org/rkaj/chord3
 - [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
 - [am0d/rusty-razor](https://github.com/am0d/rusty-razor) - Rusty razor - A Rust implementation of the Razor view engine.
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
