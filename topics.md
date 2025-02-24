@@ -304,6 +304,7 @@
 
 ## api 
 
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -444,6 +445,7 @@
 
 ## azure 
 
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
@@ -711,6 +713,7 @@
 
 ## database 
 
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
@@ -1078,6 +1081,7 @@
 
 ## graphql 
 
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [bradleyboy/tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from a SQLite database or a SQL file
@@ -1129,6 +1133,7 @@
 
 ## hacktoberfest 
 
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [icco/postmortems](https://github.com/icco/postmortems) - Postmortem metadata from danluu/post-mortems.
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
@@ -1694,6 +1699,7 @@
 
 ## microsoft 
 
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
