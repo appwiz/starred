@@ -438,6 +438,7 @@
 
 ## Java 
 
+- [dylibso/chicory](https://github.com/dylibso/chicory) - Native JVM WebAssembly runtime
 - [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 - [mukel/llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
@@ -840,6 +841,7 @@
 
 ## Objective-C 
 
+- [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [p4sh4/oi](https://github.com/p4sh4/oi) - Open source clone of the Yo app for iOS
