@@ -860,7 +860,7 @@
 
 ## elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## emacs 
@@ -1988,7 +1988,7 @@
 - [aws-samples/amazon-cloudfront-secure-static-site](https://github.com/aws-samples/amazon-cloudfront-secure-static-site) - Create a secure static website with CloudFront for your registered domain.
 - [tcort/check-cert-expiration](https://github.com/tcort/check-cert-expiration) - query an SSL/TLS server and report its certificate's expiry date
 - [zestyping/q](https://github.com/zestyping/q) - Quick and dirty debugging output for tired programmers. ⛺
-- [yngvem/python-project-structure](https://github.com/yngvem/python-project-structure) - A tutorial on how to manage a Python project
+- [yngvem/python-project-structure](https://github.com/yngvem/python-project-structure) - An outdated tutorial on how to manage a Python project
 - [aws-samples/amazon-textract-searchable-pdf](https://github.com/aws-samples/amazon-textract-searchable-pdf) - Generate searchable pdf documents from scanned documents with Amazon Textract
 - [aws-samples/amazon-textract-textractor](https://github.com/aws-samples/amazon-textract-textractor) - Analyze documents with Amazon Textract and generate output in multiple formats.
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
@@ -2010,7 +2010,7 @@
 - [bitrise-io/codesigndoc](https://github.com/bitrise-io/codesigndoc) - Your friendly iOS Code Signing Doctor
 - [hjanuschka/fastlane-plugin-aws_device_farm](https://github.com/hjanuschka/fastlane-plugin-aws_device_farm) - This Plugin Allows XCUITests and android Instrumentation tests run on AWS device Farm
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
-- [sipa/minisketch](https://github.com/sipa/minisketch) - Minisketch: an optimized library for BCH-based set reconciliation
+- [bitcoin-core/minisketch](https://github.com/bitcoin-core/minisketch) - Minisketch: an optimized library for BCH-based set reconciliation
 - [limepepper/raspberry-pi-factory-reset](https://github.com/limepepper/raspberry-pi-factory-reset) - Pi OS images which have been modified to allow a factory reset
 - [liuliu/dflat](https://github.com/liuliu/dflat) - Structured Data Store for Mobile
 - [mattclay/aws-terminator](https://github.com/mattclay/aws-terminator) - An AWS Lambda function for cleaning up AWS resources.
@@ -3011,7 +3011,7 @@
 
 ## sql 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [proofrock/ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via json+http
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
@@ -3032,7 +3032,7 @@
 ## sqlite 
 
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 - [proofrock/ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via json+http
 - [bradleyboy/tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from a SQLite database or a SQL file
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
