@@ -136,6 +136,8 @@
 - [nativescript](#nativescript)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
+- [nim](#nim)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -227,6 +229,7 @@
 
 ## ai 
 
+- [langmanus/langmanus](https://github.com/langmanus/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
@@ -338,6 +341,7 @@
 
 ## automation 
 
+- [langmanus/langmanus](https://github.com/langmanus/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
 - [transcriptionstream/transcriptionstream](https://github.com/transcriptionstream/transcriptionstream) - turnkey self-hosted offline transcription and diarization service with llm summary
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -355,7 +359,7 @@
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
@@ -813,7 +817,7 @@
 
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [spywhere/dotfiles](https://github.com/spywhere/dotfiles) - A cross-platform, modular dotfiles installer for my personal setup
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's fish, bash, git, etc config files. good stuff.
 
@@ -1273,7 +1277,7 @@
 - [fermoya/SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Native Pager in SwiftUI
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [tijmenvangulik/ErgometerJS](https://github.com/tijmenvangulik/ErgometerJS) - Java script ergometer driver for concept2 performance monitor with BLE/USB .
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [saagarjha/GenerateAppIcons](https://github.com/saagarjha/GenerateAppIcons) - A command line tool to generate app icons
 - [daihase/Sketch](https://github.com/daihase/Sketch) - Sketch have a lot of basic functions to develop a drawing app for iPhone. Anyone can easily create drawing iOS Application.
@@ -1586,6 +1590,7 @@
 
 ## llm 
 
+- [langmanus/langmanus](https://github.com/langmanus/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -1652,7 +1657,7 @@
 - [aws/homebrew-aws](https://github.com/aws/homebrew-aws) - Homebrew is a package manager for macOS which provides easy installation and update management of additional software. This Tap (repository) contains the Formulae that are used in the macOS AMI that A
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [niw/HapticKey](https://github.com/niw/HapticKey) - A simple utility application to trigger haptic feedback when tapping Touch Bar.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
@@ -1775,6 +1780,14 @@
 - [Sly777/ran](https://github.com/Sly777/ran) - :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
 - [este/este](https://github.com/este/este) - This repo is suspended.
 
+## nim 
+
+- [khaledh/fusion](https://github.com/khaledh/fusion) - A hobby OS implemented in Nim https://0xc0ffee.netlify.app/osdev
+
+## no-code 
+
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+
 ## node 
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -1883,6 +1896,7 @@
 
 ## operating-system 
 
+- [khaledh/fusion](https://github.com/khaledh/fusion) - A hobby OS implemented in Nim https://0xc0ffee.netlify.app/osdev
 - [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) - Hermit for Rust.
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [nebulet/nebulet](https://github.com/nebulet/nebulet) - A proof-of-concept microkernel that implements a WebAssembly "usermode" that runs in Ring 0.
@@ -1918,7 +1932,6 @@
 - [my-other-github-account/imessage_tools](https://github.com/my-other-github-account/imessage_tools) - Tools for reading iMessage chat.db and sending iMessages on MacOS Ventura - including parsing capabilities for those pesky hidden attributedBody messages - as Ventura seems to like hiding a lot of iMe
 - [saubury/paranoid_text_LLM](https://github.com/saubury/paranoid_text_LLM) - Paranoid analysis of iMessage chats with OpenAI, LlamaIndex & DuckDB
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [khaledh/fusion](https://github.com/khaledh/fusion) - A hobby OS implemented in Nim
 - [macstadium/orka-desktop](https://github.com/macstadium/orka-desktop) - Orka Desktop is a free, no obligation, virtualization tool, which is designed to be deployed on individual macOS workstations.
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
