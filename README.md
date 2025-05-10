@@ -107,7 +107,7 @@
 - [signal11/hidapi](https://github.com/signal11/hidapi) - A Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac, and Windows.
 - [ttscoff/nv](https://github.com/ttscoff/nv) - MultiMarkdown version of Notational Velocity with Markdown editing features and preview
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
+- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
@@ -1116,7 +1116,7 @@
 - [awslabs/aws-dx-monitor](https://github.com/awslabs/aws-dx-monitor) - Simple AWS Direct Connect monitoring with Amazon CloudWatch.
 - [aws-samples/aws-device-farm-sample-web-app-using-appium-python](https://github.com/aws-samples/aws-device-farm-sample-web-app-using-appium-python) - How to test a web application using AWS Device Farm and Appium Python
 - [arielf/weight-loss](https://github.com/arielf/weight-loss) - Machine Learning meets  ketosis: how to effectively lose weight
-- [WithSecureLabs/needle](https://github.com/WithSecureLabs/needle) - The iOS Security Testing Framework
+- [ReversecLabs/needle](https://github.com/ReversecLabs/needle) - The iOS Security Testing Framework
 - [aio-libs/aiopg](https://github.com/aio-libs/aiopg) - aiopg is a library for accessing a PostgreSQL database from the asyncio
 - [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
