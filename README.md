@@ -1335,6 +1335,7 @@
 
 ## Swift 
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [mdaskalov/Maze](https://github.com/mdaskalov/Maze) - Create a maze using SpriteKit and SKTileMapNode iOS, watchOS and macOS variants included
 - [BoldContacts/boldcontacts-mobile-app-for-apple](https://github.com/BoldContacts/boldcontacts-mobile-app-for-apple) - BoldContacts mobile app for people with visual/cognitive/motor disabilities
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad
