@@ -274,7 +274,7 @@
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
 - [tijmenvangulik/ErgometerJS](https://github.com/tijmenvangulik/ErgometerJS) - Java script ergometer driver for concept2 performance monitor with BLE/USB .
@@ -460,7 +460,7 @@
 
 ## backend 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 
@@ -799,7 +799,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [sdr-enthusiasts/docker-piaware](https://github.com/sdr-enthusiasts/docker-piaware) - Multi-arch PiAware docker container including support for bladeRF, RTLSDR, SoapySDR. Includes dump1090 & dump978 (amd64, arm/v6, arm/v7, arm64v8)
 - [SickHub/docker-cups-airprint](https://github.com/SickHub/docker-cups-airprint) - A standalone CUPS and Avahi (mDNS/Bonjour) server, exposing local printers on AirPrint for iOS devices
@@ -895,6 +895,7 @@
 
 ## emulator 
 
+- [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server (and its launcher) for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 
 ## english 
@@ -926,7 +927,7 @@
 
 ## firebase 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [soumak77/firebase-mock](https://github.com/soumak77/firebase-mock) - Firebase mock library for writing unit tests
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
@@ -946,7 +947,7 @@
 
 ## flutter 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [rotoxl/flutter_magic](https://github.com/rotoxl/flutter_magic) - Magic API & Flutter
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, 
 
@@ -1162,7 +1163,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
@@ -1171,7 +1172,6 @@
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) - fossjobs.net based on jobberbase
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
@@ -1285,7 +1285,7 @@
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [fermoya/SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Native Pager in SwiftUI
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [tijmenvangulik/ErgometerJS](https://github.com/tijmenvangulik/ErgometerJS) - Java script ergometer driver for concept2 performance monitor with BLE/USB .
@@ -1398,7 +1398,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1788,7 +1788,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [jqlang/playground](https://github.com/jqlang/playground) - A jq playground built with Next.js
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -1926,6 +1926,9 @@
 
 ## others 
 
+- [microsoft/NLWeb](https://github.com/microsoft/NLWeb) - Natural Language Web
+- [ed-donner/agents](https://github.com/ed-donner/agents) - Repo for the Complete Agentic AI Engineering Course
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [marissamarym/imessage-mcp-server](https://github.com/marissamarym/imessage-mcp-server) - An MCP server that uses AppleScript to send iMessages and manage contacts.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [KallDrexx/DotnetSnes](https://github.com/KallDrexx/DotnetSnes) - Library allowing to use C# to create SNES roms
@@ -2763,7 +2766,7 @@
 - [gmsgowtham/react-native-marked](https://github.com/gmsgowtham/react-native-marked) - Markdown renderer for React Native powered by marked.js
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -2806,7 +2809,7 @@
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [gmsgowtham/react-native-marked](https://github.com/gmsgowtham/react-native-marked) - Markdown renderer for React Native powered by marked.js
 - [react-native-community/directory](https://github.com/react-native-community/directory) - A searchable and filterable directory of React Native libraries.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [react-native-community/react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - 👾 Clean and minimalist React Native template for a quick start with TypeScript.
 - [react-native-community/cli](https://github.com/react-native-community/cli) - The React Native Community CLI - command line tools to help you build RN apps
 - [react-native-netinfo/react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native Network Info API for Android & iOS
@@ -2987,7 +2990,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 
@@ -3005,7 +3008,7 @@
 - [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium for Serverless Platforms
 - [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -3104,7 +3107,7 @@
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [ZekeSnider/Jared](https://github.com/ZekeSnider/Jared) - An easily extensible chat bot for iMessage written in Swift.
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -3286,7 +3289,7 @@
 ## web 
 
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [am0d/rusty-razor](https://github.com/am0d/rusty-razor) - Rusty razor - A Rust implementation of the Razor view engine.
