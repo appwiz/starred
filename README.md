@@ -1031,6 +1031,7 @@
 
 ## Python 
 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [microsoft/NLWeb](https://github.com/microsoft/NLWeb) - Natural Language Web
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) - An MCP server that provides safe access to your iMessage database through Model Context Protocol (MCP). This server is built with the FastMCP framework and the imessagedb library, enabling LLMs to que
