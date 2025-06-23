@@ -161,6 +161,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -244,7 +245,7 @@
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
@@ -675,7 +676,7 @@
 - [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
-- [NLog/NLog](https://github.com/NLog/NLog) - NLog - Flexible and Structured Logging for Various .NET Platforms
+- [NLog/NLog](https://github.com/NLog/NLog) - NLog - Flexible and Structured Logging for various .NET Platforms
 
 ## css 
 
@@ -734,7 +735,7 @@
 - [smallbets/userbase](https://github.com/smallbets/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
@@ -761,7 +762,7 @@
 ## deno 
 
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## deployment 
 
@@ -849,7 +850,7 @@
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
-- [NLog/NLog](https://github.com/NLog/NLog) - NLog - Flexible and Structured Logging for Various .NET Platforms
+- [NLog/NLog](https://github.com/NLog/NLog) - NLog - Flexible and Structured Logging for various .NET Platforms
 - [tomasmcguinness/dotnet-passbook](https://github.com/tomasmcguinness/dotnet-passbook) - A .Net Library for generating Apple Passbook (Wallet) files for iOS. Please get involved by creating pull requests and opening issues!
 - [zeromq/netmq](https://github.com/zeromq/netmq) - A 100% native C# implementation of ZeroMQ for .NET
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
@@ -935,7 +936,7 @@
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [soumak77/firebase-mock](https://github.com/soumak77/firebase-mock) - Firebase mock library for writing unit tests
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [the-road-to-react-with-firebase/react-gatsby-firebase-authentication](https://github.com/the-road-to-react-with-firebase/react-gatsby-firebase-authentication) - 🐣🔥Starter Project / Boilerplate for Authentication with Firebase and plain React in Gatsby.js
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
@@ -1614,6 +1615,7 @@
 
 ## llm 
 
+- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) - An MCP server that provides safe access to your iMessage database through Model Context Protocol (MCP). This server is built with the FastMCP framework and the imessagedb library, enabling LLMs to que
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
@@ -1781,7 +1783,6 @@
 ## mysql 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 
@@ -1803,7 +1804,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [jqlang/playground](https://github.com/jqlang/playground) - A jq playground built with Next.js
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [Sly777/ran](https://github.com/Sly777/ran) - :zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
 - [este/este](https://github.com/este/este) - This repo is suspended.
@@ -1937,6 +1938,9 @@
 
 ## others 
 
+- [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [NSTiwari/Gemma-on-Android](https://github.com/NSTiwari/Gemma-on-Android) - This project is an implementation of fine-tuning the Gemma 2b-it model on a custom dataset and deploy the model on Android.
 - [microsoft/NLWeb](https://github.com/microsoft/NLWeb) - Natural Language Web
 - [ed-donner/agents](https://github.com/ed-donner/agents) - Repo for the Complete Agentic AI Engineering Course
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
@@ -2638,7 +2642,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [lesovsky/noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
@@ -2657,6 +2661,17 @@
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 - [zerotier/lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
+
+## productivity 
+
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
+- [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## programming 
 
@@ -3346,6 +3361,7 @@
 
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+- [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
@@ -3371,7 +3387,7 @@
 
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
-- [NLog/NLog](https://github.com/NLog/NLog) - NLog - Flexible and Structured Logging for Various .NET Platforms
+- [NLog/NLog](https://github.com/NLog/NLog) - NLog - Flexible and Structured Logging for various .NET Platforms
 
 ## xcode 
 
