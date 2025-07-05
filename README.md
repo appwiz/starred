@@ -685,7 +685,7 @@
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [rstaib/jquery-bootgrid](https://github.com/rstaib/jquery-bootgrid) - Nice, sleek and intuitive. A grid control especially designed for bootstrap.
-- [Staffjoy/v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - all microservices in a monorepo
+- [Staffjoy/v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - workforce management app for small businesses
 - [gofore/aws-emr](https://github.com/gofore/aws-emr) - A demonstration of Amazon Elastic MapReduce
 - [frnsys/the_founder](https://github.com/frnsys/the_founder) - start a company, ruin the world
 - [fbsamples/f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2017, powered by React Native and other Facebook open source projects.
