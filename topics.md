@@ -2284,7 +2284,7 @@
 - [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans™
 - [dvoyni/color-themes](https://github.com/dvoyni/color-themes) - Next generation of the site about color themes for IDEs
 - [rstaib/jquery-bootgrid](https://github.com/rstaib/jquery-bootgrid) - Nice, sleek and intuitive. A grid control especially designed for bootstrap.
-- [Staffjoy/v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - all microservices in a monorepo
+- [Staffjoy/v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - workforce management app for small businesses
 - [prydonius/karn](https://github.com/prydonius/karn) - Manage multiple Git identities
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [gofore/aws-emr](https://github.com/gofore/aws-emr) - A demonstration of Amazon Elastic MapReduce
