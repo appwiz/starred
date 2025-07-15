@@ -1115,7 +1115,7 @@
 - [localstack/awscli-local](https://github.com/localstack/awscli-local) - 💲  "awslocal" - Thin wrapper around the "aws" command line interface for use with LocalStack
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
 - [rpgreen/apilogs](https://github.com/rpgreen/apilogs) - Easy logging and debugging for Amazon API Gateway and AWS Lambda Serverless APIs
-- [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [OWASP/mastg](https://github.com/OWASP/mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [aws-samples/aws-lambda-manage-rds-connections](https://github.com/aws-samples/aws-lambda-manage-rds-connections) - Sample code for dynamically managing RDS/RDBMS connections across a fleet of Lambda functions
 - [alexdebrie/serverless-dynamodb-backups](https://github.com/alexdebrie/serverless-dynamodb-backups) - Automate your DynamoDB backups! ⚡️
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -1141,7 +1141,7 @@
 - [coursera-dl/coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [botify-labs/simpleflow](https://github.com/botify-labs/simpleflow) - Python library for dataflow programming.
-- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
 - [kelp404/Victorique](https://github.com/kelp404/Victorique) - An error report server on Google App Engine.
 - [mozilla-services/socorro](https://github.com/mozilla-services/socorro) - Socorro is the Mozilla crash ingestion pipeline. It accepts and processes Breakpad-style crash reports. It provides analysis tools.
 - [couchapp/couchapp](https://github.com/couchapp/couchapp) - Utilities to make standalone CouchDB application development simple
@@ -1475,7 +1475,7 @@
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
 - [graphql-hive/graphql-scalars](https://github.com/graphql-hive/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
 - [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - 🕸️ GraphQL Federation Framework for any API services such as REST, OpenAPI, Swagger, SOAP, gRPC and more...
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
