@@ -1146,7 +1146,7 @@
 - [kelp404/Victorique](https://github.com/kelp404/Victorique) - An error report server on Google App Engine.
 - [mozilla-services/socorro](https://github.com/mozilla-services/socorro) - Socorro is the Mozilla crash ingestion pipeline. It accepts and processes Breakpad-style crash reports. It provides analysis tools.
 - [couchapp/couchapp](https://github.com/couchapp/couchapp) - Utilities to make standalone CouchDB application development simple
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [intrepidusgroup/imdmtools](https://github.com/intrepidusgroup/imdmtools) - Intrepidus Group's iOS MDM tools
 - [project-imas/mdm-server](https://github.com/project-imas/mdm-server) - Sample iOS MDM server
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
@@ -1426,7 +1426,7 @@
 
 ## TypeScript 
 
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [getAsterisk/gooey](https://github.com/getAsterisk/gooey) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
