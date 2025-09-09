@@ -1027,6 +1027,7 @@
 
 ## Perl 
 
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [nkh/P5-App-Asciio](https://github.com/nkh/P5-App-Asciio) - Plain ASCII diagram
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [chelseybadau/iOSMessageExport](https://github.com/chelseybadau/iOSMessageExport) - 
@@ -1042,6 +1043,7 @@
 
 ## Python 
 
+- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring
 - [cottongeeks/ytt-mcp](https://github.com/cottongeeks/ytt-mcp) - MCP server to fetch YouTube transcripts
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
