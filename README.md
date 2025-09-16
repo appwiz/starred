@@ -555,7 +555,6 @@
 - [marissamarym/imessage-mcp-server](https://github.com/marissamarym/imessage-mcp-server) - An MCP server that uses AppleScript to send iMessages and manage contacts.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
-- [billchurch/webssh2](https://github.com/billchurch/webssh2) - Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [mikeal/prolly-trees](https://github.com/mikeal/prolly-trees) - Hash consistent search trees.
@@ -620,6 +619,7 @@
 - [tsl143/jsDemos](https://github.com/tsl143/jsDemos) - Home page for all listed extensions, if you have any suggestions/bugs, please file an issue in this repo
 - [turnoffthelights/Turn-Off-the-Lights-Firefox-extension-WebExtensions](https://github.com/turnoffthelights/Turn-Off-the-Lights-Firefox-extension-WebExtensions) - Firefox extension (WebExtensions)
 - [gritzko/swarm](https://github.com/gritzko/swarm) - JavaScript replicated model (M of MVC) library
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
@@ -934,7 +934,7 @@
 
 ## Others 
 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [macstadium/orka-desktop](https://github.com/macstadium/orka-desktop) - Orka Desktop is a free, no obligation, virtualization tool, which is designed to be deployed on individual macOS workstations.
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
@@ -1338,7 +1338,7 @@
 - [limepepper/raspberry-pi-factory-reset](https://github.com/limepepper/raspberry-pi-factory-reset) - Pi OS images which have been modified to allow a factory reset
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
+- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/configs/..
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [fteem/git-semantic-commits](https://github.com/fteem/git-semantic-commits) - Tiny semantic commit messages for Git.
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
@@ -1458,6 +1458,7 @@
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
+- [billchurch/webssh2](https://github.com/billchurch/webssh2) - Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
@@ -1508,7 +1509,6 @@
 - [graphql-query-rewriter/core](https://github.com/graphql-query-rewriter/core) - Seamlessly turn breaking GraphQL changes into non-breaking changes
 - [haoqunjiang/vscode-velocity](https://github.com/haoqunjiang/vscode-velocity) - Velocity syntax highlighting for Visual Studio Code
 - [Novvum/graphql-birdseye](https://github.com/Novvum/graphql-birdseye) - View any GraphQL schema as a dynamic and interactive graph. 🦅
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [react-native-community/cli](https://github.com/react-native-community/cli) - The React Native Community CLI - command line tools to help you build RN apps
 - [react-native-netinfo/react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native Network Info API for Android & iOS
