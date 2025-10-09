@@ -313,7 +313,7 @@
 - [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp) - MCP server and CLI tool for searching and downloading documents from Anna's Archive
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server (and its launcher) for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline
+- [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server (and its launcher) for AoE 1, 2, 3 (all DE) and AoM: RT supporting offline multiplayer
 - [tesserato/CodeWeaver](https://github.com/tesserato/CodeWeaver) - Weave your codebase into a single, navigable Markdown document
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -506,7 +506,7 @@
 - [scottyab/rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app
 - [aknostic/elasticsearch-cloudwatch](https://github.com/aknostic/elasticsearch-cloudwatch) - Elasticsearch plugin which posts ES data to CloudWatch
 - [airbrake/airbrake-android](https://github.com/airbrake/airbrake-android) - Exception tracking for Android Apps.
-- [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Sweeps boilerplate code under the rug since 2013!
+- [immutables/immutables](https://github.com/immutables/immutables) - Java annotation processor to create immutable objects and builders. Sweeps boilerplate code under the rug since 2013!
 - [bitstadium/HockeySDK-Android](https://github.com/bitstadium/HockeySDK-Android) - HockeyApp was retired and the SDKs are deprecated. Please use App Center instead.
 - [ronmamo/reflections](https://github.com/ronmamo/reflections) - Java runtime metadata analysis
 - [vavr-io/vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
