@@ -1387,7 +1387,7 @@
 - [CameraKit/camerakit-ios](https://github.com/CameraKit/camerakit-ios) - Library for iOS Camera API. Massively increase performance and ease of use within your next iOS Project.
 - [amzn/smoke-framework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language.
 - [amzn/smoke-aws-generate](https://github.com/amzn/smoke-aws-generate) - Code generator to generate the SmokeAWS library from service models.
-- [swift-server/swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime) - Swift implementation of AWS Lambda Runtime
+- [awslabs/swift-aws-lambda-runtime](https://github.com/awslabs/swift-aws-lambda-runtime) - Swift implementation of AWS Lambda Runtime
 - [arcus-smart-home/arcusios](https://github.com/arcus-smart-home/arcusios) - 
 - [saagarjha/GenerateAppIcons](https://github.com/saagarjha/GenerateAppIcons) - A command line tool to generate app icons
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
@@ -1472,7 +1472,7 @@
 - [react-native-community/directory](https://github.com/react-native-community/directory) - A searchable and filterable directory of React Native libraries.
 - [ccorcos/tuple-database](https://github.com/ccorcos/tuple-database) - 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced open-source browser fingerprinting library
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
