@@ -1014,7 +1014,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [aaronpk/iMessage-Export](https://github.com/aaronpk/iMessage-Export) - Archive your iMessage history to HTML, CSV or SQL
 - [fossjobs/fossjobs](https://github.com/fossjobs/fossjobs) - fossjobs.net based on jobberbase
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
