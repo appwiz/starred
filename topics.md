@@ -2046,7 +2046,7 @@
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [NSTiwari/Gemma-on-Android](https://github.com/NSTiwari/Gemma-on-Android) - This project is an implementation of fine-tuning the Gemma 2b-it model on a custom dataset and deploy the model on Android.
-- [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - The main repo for NLWeb, implemented in Python.
+- [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - Main reference implementation for NLWeb, implemented in Python.
 - [ed-donner/agents](https://github.com/ed-donner/agents) - Repo for the Complete Agentic AI Engineering Course
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [marissamarym/imessage-mcp-server](https://github.com/marissamarym/imessage-mcp-server) - An MCP server that uses AppleScript to send iMessages and manage contacts.
