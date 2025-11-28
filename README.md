@@ -1000,7 +1000,6 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [SalGnt/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards.
-- [paperwork/paperwork](https://github.com/paperwork/paperwork) - 
 - [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [Simperium/simperium-protocol](https://github.com/Simperium/simperium-protocol) - Documentation on the Simperium client/server syncing protocol
 - [markcho/iTerm2_LiquidCarbon](https://github.com/markcho/iTerm2_LiquidCarbon) - Liquid Carbon colorscheme for iTerm2.
@@ -1044,6 +1043,8 @@
 
 ## Python 
 
+- [google/dotprompt](https://github.com/google/dotprompt) - Executable GenAI prompt templates
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring
@@ -1093,7 +1094,7 @@
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [awslabs/aws-repository-status-monitor](https://github.com/awslabs/aws-repository-status-monitor) - The AWS Repository Status Monitor helps open-source developers keep track of GitHub and Docker metrics for their open source projects.
 - [minimaxir/imgmaker](https://github.com/minimaxir/imgmaker) - Create high-quality images programmatically with easily-hackable templates.
-- [L9Labs/followercount](https://github.com/L9Labs/followercount) - Track how many Twitter followers an account has over time.
+- [LastWeekinAWS/followercount](https://github.com/LastWeekinAWS/followercount) - Track how many Twitter followers an account has over time.
 - [mattclay/aws-terminator](https://github.com/mattclay/aws-terminator) - An AWS Lambda function for cleaning up AWS resources.
 - [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
@@ -1602,7 +1603,7 @@
 
 ## Zig 
 
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 
 ## License
