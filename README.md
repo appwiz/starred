@@ -356,7 +356,7 @@
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [kolide/kit](https://github.com/kolide/kit) - A Go standard library for Kolide projects
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [dvassallo/s3-benchmark](https://github.com/dvassallo/s3-benchmark) - Measure Amazon S3's performance from any location.
 - [glassechidna/trackiam](https://github.com/glassechidna/trackiam) - A project to collate IAM actions, AWS APIs and managed policies from various public sources.
 - [brendoncarroll/webfs](https://github.com/brendoncarroll/webfs) - A Filesystem Built On Top of the Web.
@@ -1411,7 +1411,7 @@
 - [krzyzanowskim/Natalie](https://github.com/krzyzanowskim/Natalie) - Natalie - Storyboard Code Generator (for Swift)
 - [NghiaTranUIT/artify-macos](https://github.com/NghiaTranUIT/artify-macos) - 🌎 18th century Arts for everyone
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
-- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
+- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [awslabs/aws-sdk-ios-samples](https://github.com/awslabs/aws-sdk-ios-samples) - This repository has samples that demonstrate various aspects of the AWS SDK for iOS, you can get the SDK source on Github https://github.com/aws-amplify/aws-sdk-ios/
 - [KhaosT/HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo) - A demo wrote in Swift for HomeKit. Works with HomeKit Simulator
 - [Yalantis/CloudKit-Demo.Swift](https://github.com/Yalantis/CloudKit-Demo.Swift) - 
