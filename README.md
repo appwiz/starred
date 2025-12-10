@@ -508,7 +508,7 @@
 - [scottyab/rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app
 - [aknostic/elasticsearch-cloudwatch](https://github.com/aknostic/elasticsearch-cloudwatch) - Elasticsearch plugin which posts ES data to CloudWatch
 - [airbrake/airbrake-android](https://github.com/airbrake/airbrake-android) - Exception tracking for Android Apps.
-- [immutables/immutables](https://github.com/immutables/immutables) - Java annotation processor to create immutable objects and builders, for records too. Sweeps boilerplate code under the rug since 2013!
+- [immutables/immutables](https://github.com/immutables/immutables) - Java annotation processor to create immutable objects and builders, for records too. Sweep boilerplate code under the rug!
 - [bitstadium/HockeySDK-Android](https://github.com/bitstadium/HockeySDK-Android) - HockeyApp was retired and the SDKs are deprecated. Please use App Center instead.
 - [ronmamo/reflections](https://github.com/ronmamo/reflections) - Java runtime metadata analysis
 - [vavr-io/vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
