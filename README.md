@@ -449,6 +449,7 @@
 
 ## Java 
 
+- [appwiz/subethasmtp](https://github.com/appwiz/subethasmtp) - SubEtha SMTP is a Java library for receiving SMTP mail
 - [dylibso/chicory](https://github.com/dylibso/chicory) - Native JVM WebAssembly runtime
 - [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
