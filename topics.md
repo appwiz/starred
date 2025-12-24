@@ -2104,6 +2104,7 @@
 
 ## others 
 
+- [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [ashmind/SharpLab](https://github.com/ashmind/SharpLab) - .NET language playground
 - [appwiz/subethasmtp](https://github.com/appwiz/subethasmtp) - SubEtha SMTP is a Java library for receiving SMTP mail
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
