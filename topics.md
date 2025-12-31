@@ -2103,6 +2103,7 @@
 
 ## others 
 
+- [Instrument/instrument-serif](https://github.com/Instrument/instrument-serif) - 
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [ashmind/SharpLab](https://github.com/ashmind/SharpLab) - .NET language playground
 - [appwiz/subethasmtp](https://github.com/appwiz/subethasmtp) - SubEtha SMTP is a Java library for receiving SMTP mail
