@@ -427,7 +427,7 @@
 - [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 - [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-- [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
+- [jqlang/awesome-jq](https://github.com/jqlang/awesome-jq) - A curated list of awesome jq tools and resources.
 - [Level/awesome](https://github.com/Level/awesome) - An open list of awesome Level modules and resources.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [theswiftdev/awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
