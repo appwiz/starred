@@ -2133,6 +2133,7 @@
 
 ## others 
 
+- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
 - [xevg/imessagedb](https://github.com/xevg/imessagedb) - Python Package to read Apple iMessage database
 - [Instrument/instrument-serif](https://github.com/Instrument/instrument-serif) - 
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
