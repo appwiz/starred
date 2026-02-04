@@ -1237,6 +1237,7 @@
 
 ## Rust 
 
+- [s2-streamstore/s2-kv-demo](https://github.com/s2-streamstore/s2-kv-demo) - Example distributed KV-store built on S2
 - [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) - Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 - [stepchowfun/typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
