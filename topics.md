@@ -297,7 +297,7 @@
 
 ## ai-agents 
 
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -403,7 +403,6 @@
 
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [poozlehq/poozle](https://github.com/poozlehq/poozle) - A single API for product integrations
-- [lucidrains/memorizing-transformers-pytorch](https://github.com/lucidrains/memorizing-transformers-pytorch) - Implementation of Memorizing Transformers (ICLR 2022), attention net augmented with indexing and retrieval of memories using approximate nearest neighbors, in Pytorch
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 
@@ -867,7 +866,6 @@
 ## deep-learning 
 
 - [mpaepper/content-chatbot](https://github.com/mpaepper/content-chatbot) - Build a chatbot or Q&A bot of your website's content
-- [lucidrains/memorizing-transformers-pytorch](https://github.com/lucidrains/memorizing-transformers-pytorch) - Implementation of Memorizing Transformers (ICLR 2022), attention net augmented with indexing and retrieval of memories using approximate nearest neighbors, in Pytorch
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 
@@ -2604,11 +2602,11 @@
 - [aosp-mirror/platform_system_core](https://github.com/aosp-mirror/platform_system_core) - 
 - [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework for iOS, macOS, watchOS, and tvOS.
 - [mattt/GroundControl](https://github.com/mattt/GroundControl) - Remote configuration for iOS
-- [endSly/k](https://github.com/endSly/k) - Simple Kernel for x86
+- [endikag/k](https://github.com/endikag/k) - Simple Kernel for x86
 - [nygard/class-dump](https://github.com/nygard/class-dump) - Generate Objective-C headers from Mach-O files.
 - [prateek147/DVIA](https://github.com/prateek147/DVIA) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetrat
 - [oliverng/FalseSenseOfSecurity](https://github.com/oliverng/FalseSenseOfSecurity) - Example iOS app that performs basic debugging and ptrace checks
-- [endSly/Cloudboard](https://github.com/endSly/Cloudboard) - Cloudboard is a remote over-http keyboard for iOS 8 written in Swift
+- [endikag/Cloudboard](https://github.com/endikag/Cloudboard) - Cloudboard is a remote over-http keyboard for iOS 8 written in Swift
 - [glagnar/remote-controllable](https://github.com/glagnar/remote-controllable) - Component that allows remote control of iOS apps
 - [uxmstudio/UIScreenCapture](https://github.com/uxmstudio/UIScreenCapture) - Simply capture screenshots and create screen recordings from code in iOS.
 - [alskipp/ASScreenRecorder](https://github.com/alskipp/ASScreenRecorder) - Record iOS screen contents to .mp4 video file
