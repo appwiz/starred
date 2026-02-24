@@ -808,6 +808,7 @@
 - [amazon-ion/ion-schema-kotlin](https://github.com/amazon-ion/ion-schema-kotlin) - A Kotlin reference implementation of the Ion Schema Specification.
 - [partiql/partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) - PartiQL libraries and tools in Kotlin.
 - [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native infrastructure
+- [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
 - [aws/aws-toolkit-jetbrains](https://github.com/aws/aws-toolkit-jetbrains) - AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs
 - [bugsnag/bugsnag-android](https://github.com/bugsnag/bugsnag-android) - BugSnag crash monitoring and reporting tool for Android apps
 - [redpen-cc/redpen-intellij-plugin](https://github.com/redpen-cc/redpen-intellij-plugin) - RedPen plugin for Intellij IDEA and other JetBrains IDEs
@@ -1537,7 +1538,6 @@
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [react-native-community/cli](https://github.com/react-native-community/cli) - The React Native Community CLI - command line tools to help you build RN apps
 - [react-native-netinfo/react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - React Native Network Info API for Android & iOS
-- [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
 - [microsoft/vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
 - [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish
