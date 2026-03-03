@@ -1452,7 +1452,7 @@
 ## TypeScript 
 
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic'
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit) - A type-safe, elegant iMessage SDK for macOS with zero dependencies
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
