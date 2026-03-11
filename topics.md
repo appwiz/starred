@@ -474,7 +474,6 @@
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [awslabs/aws-repository-status-monitor](https://github.com/awslabs/aws-repository-status-monitor) - The AWS Repository Status Monitor helps open-source developers keep track of GitHub and Docker metrics for their open source projects.
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
-- [agorf/dyndns53](https://github.com/agorf/dyndns53) - Run your own dynamic DNS service with Amazon Route 53
 - [aws/ec2-macos-init](https://github.com/aws/ec2-macos-init) - EC2 macOS Init is the launch daemon used to initialize Mac instances within EC2.
 - [aws/homebrew-aws](https://github.com/aws/homebrew-aws) - Homebrew is a package manager for macOS which provides easy installation and update management of additional software. This Tap (repository) contains the Formulae that are used in the macOS AMI that A
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
@@ -1236,7 +1235,6 @@
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
 - [proofrock/ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query sqlite via json+http
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-- [agorf/dyndns53](https://github.com/agorf/dyndns53) - Run your own dynamic DNS service with Amazon Route 53
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [thesephist/ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
