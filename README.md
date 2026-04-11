@@ -787,7 +787,7 @@
 
 ## Jupyter Notebook 
 
-- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
+- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [NSTiwari/Gemma-on-Android](https://github.com/NSTiwari/Gemma-on-Android) - This project is an implementation of fine-tuning the Gemma 2b-it model on a custom dataset and deploy the model on Android.
 - [ed-donner/agents](https://github.com/ed-donner/agents) - Repo for the Complete Agentic AI Engineering Course
@@ -1248,7 +1248,7 @@
 - [stepchowfun/typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [berkes/art](https://github.com/berkes/art) - Art Experiments
