@@ -232,7 +232,7 @@
 - [cbucher/console](https://github.com/cbucher/console) - This is a modified version of Console 2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [Octoate/ArduinoDES](https://github.com/Octoate/ArduinoDES) - DES and Triples DES encryption and decryption for the Arduino microcontroller platform
-- [dhewm/dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 main repository
+- [dhewm/dhewm3](https://github.com/dhewm/dhewm3) - dhewm 3 (Doom3 sourceport) main repository
 - [amazon-archives/aws-sdk-arduino](https://github.com/amazon-archives/aws-sdk-arduino) - An experimental SDK for working with AWS Services on Arduino-compatible devices. Currently has support for DynamoDB and Kinesis.
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
@@ -1248,7 +1248,7 @@
 - [stepchowfun/typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local, cross-platform and programmable sandboxes for AI agents
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [berkes/art](https://github.com/berkes/art) - Art Experiments
