@@ -2452,7 +2452,7 @@
 - [toddlucas/ocam](https://github.com/toddlucas/ocam) - Razor and Markdown static site generator
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [google/dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
-- [rootfont/rootfont](https://github.com/rootfont/rootfont) - Next-generation font management system.
+- [rootfont/rootfont](https://github.com/rootfont/rootfont) - The native font manager for designers and programmers on macOS.
 - [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [MSzalek-Mobile/weight_tracker](https://github.com/MSzalek-Mobile/weight_tracker) - 
