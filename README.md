@@ -948,7 +948,7 @@
 - [shelfio/chrome-aws-lambda-layer](https://github.com/shelfio/chrome-aws-lambda-layer) - 58 MB Google Chrome to fit inside AWS Lambda Layer compressed with Brotli
 - [petykowski/London-Underground-Dot-Matrix-Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface) - A set of dot matrix fonts in the style of TfL's Underground arrivals board.
 - [github/balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) - GitHub's employee intellectual property agreement, open sourced and reusable
-- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [yngvem/python-project-structure](https://github.com/yngvem/python-project-structure) - An outdated tutorial on how to manage a Python project
