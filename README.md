@@ -1442,7 +1442,7 @@
 - [insidegui/WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS
 - [endikag/Cloudboard](https://github.com/endikag/Cloudboard) - Cloudboard is a remote over-http keyboard for iOS 8 written in Swift
 - [glagnar/remote-controllable](https://github.com/glagnar/remote-controllable) - Component that allows remote control of iOS apps
-- [urbanairship/ios-library](https://github.com/urbanairship/ios-library) - Urban Airship iOS SDK
+- [urbanairship/ios-library](https://github.com/urbanairship/ios-library) - Airship iOS SDK
 
 ## TSQL 
 
