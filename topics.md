@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [ajax](#ajax)
@@ -277,6 +278,15 @@
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+
+## agents 
+
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 
 ## ai 
 
@@ -1552,7 +1562,7 @@
 - [Estimote/iOS-Fleet-Management-SDK](https://github.com/Estimote/iOS-Fleet-Management-SDK) - Estimote Fleet Management SDK for iOS
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager.
-- [urbanairship/ios-library](https://github.com/urbanairship/ios-library) - Urban Airship iOS SDK
+- [urbanairship/ios-library](https://github.com/urbanairship/ios-library) - Airship iOS SDK
 
 ## iot 
 
