@@ -2007,7 +2007,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [dotnet/msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
 - [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
-- [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 
 ## mobile 
 
@@ -2852,6 +2851,7 @@
 - [jxnblk/Ashley](https://github.com/jxnblk/Ashley) - A Readable & Responsive Theme for Tumblr
 - [nsanta/openoverflow](https://github.com/nsanta/openoverflow) - Open Source implementation of stackoverflow app (not maintained)
 - [apache/cassandra-ccm](https://github.com/apache/cassandra-ccm) - Apache Cassandra® Cluster Manager (CCM) – easily create and destroy clusters on localhost
+- [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 - [madelynnblue/goread](https://github.com/madelynnblue/goread) - RSS reader in go on app engine; formerly goread.io
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [kr/paxos](https://github.com/kr/paxos) - Basic paxos
