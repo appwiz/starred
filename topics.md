@@ -210,6 +210,7 @@
 - [rust](#rust)
 - [sass](#sass)
 - [scala](#scala)
+- [scikit-learn](#scikit-learn)
 - [security](#security)
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
@@ -230,6 +231,7 @@
 - [symfony](#symfony)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
@@ -288,6 +290,7 @@
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
 
 ## ai 
 
@@ -910,6 +913,7 @@
 
 ## deep-learning 
 
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [mpaepper/content-chatbot](https://github.com/mpaepper/content-chatbot) - Build a chatbot or Q&A bot of your website's content
 - [lucidrains/memorizing-transformers-pytorch](https://github.com/lucidrains/memorizing-transformers-pytorch) - Implementation of Memorizing Transformers (ICLR 2022), attention net augmented with indexing and retrieval of memories using approximate nearest neighbors, in Pytorch
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
@@ -1898,6 +1902,7 @@
 
 ## machine-learning 
 
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [mpaepper/content-chatbot](https://github.com/mpaepper/content-chatbot) - Build a chatbot or Q&A bot of your website's content
@@ -2003,6 +2008,7 @@
 
 ## microsoft 
 
+- [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
 - [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
@@ -2216,6 +2222,14 @@
 
 ## others 
 
+- [microsoft/foundry-local-on-windowsserver-samples](https://github.com/microsoft/foundry-local-on-windowsserver-samples) - Foundry local on Windows Server samples
+- [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
+- [videogamepreservation/quake2](https://github.com/videogamepreservation/quake2) - Quake II (1997) by id Software, Inc.
+- [videogamepreservation/quake](https://github.com/videogamepreservation/quake) - Quake (1996) by id Software, Inc.
+- [videogamepreservation/wolf3d](https://github.com/videogamepreservation/wolf3d) - Wolfenstein 3D (1992) by id Software, Inc. for DOS
+- [videogamepreservation/descent2](https://github.com/videogamepreservation/descent2) - Descent II (1996) by Parallax Software Corp.
+- [videogamepreservation/digdug-7800](https://github.com/videogamepreservation/digdug-7800) - Dig Dug (1987) by Namco Limited for the Atari 7800
+- [videogamepreservation/descent3](https://github.com/videogamepreservation/descent3) - Descent 3 (1999) by Outrage Entertainment.
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
@@ -3072,6 +3086,7 @@
 
 ## pytorch 
 
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 
@@ -3277,7 +3292,6 @@
 - [zhihu/rucene](https://github.com/zhihu/rucene) - Rust port of Lucene
 - [mosuka/bayard](https://github.com/mosuka/bayard) - A full-text search and indexing server written in Rust.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [ron-rs/ron](https://github.com/ron-rs/ron) - Rusty Object Notation
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
@@ -3317,6 +3331,10 @@
 ## scala 
 
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
+
+## scikit-learn 
+
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 
 ## security 
 
@@ -3517,6 +3535,10 @@
 
 - [jasonelle-archive/jasonelle-v2](https://github.com/jasonelle-archive/jasonelle-v2) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
 - [claudiajs/claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
+
+## tensorflow 
+
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 
 ## terminal 
 
@@ -3724,6 +3746,7 @@
 
 ## windows 
 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
