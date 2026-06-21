@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -64,8 +65,16 @@
 - [XSLT](#xslt)
 - [Zig](#zig)
 
+## Assembly 
+
+- [videogamepreservation/digdug-7800](https://github.com/videogamepreservation/digdug-7800) - Dig Dug (1987) by Namco Limited for the Atari 7800
+
 ## C 
 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+- [videogamepreservation/quake2](https://github.com/videogamepreservation/quake2) - Quake II (1997) by id Software, Inc.
+- [videogamepreservation/quake](https://github.com/videogamepreservation/quake) - Quake (1996) by id Software, Inc.
+- [videogamepreservation/wolf3d](https://github.com/videogamepreservation/wolf3d) - Wolfenstein 3D (1992) by id Software, Inc. for DOS
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [Parrot-Developers/libpomp](https://github.com/Parrot-Developers/libpomp) - Printf Oriented Message Protocol
 - [videogamepreservation/descent](https://github.com/videogamepreservation/descent) - Descent (1995) by Parallax Software Corp.
@@ -119,6 +128,7 @@
 
 ## C# # 
 
+- [microsoft/foundry-local-on-windowsserver-samples](https://github.com/microsoft/foundry-local-on-windowsserver-samples) - Foundry local on Windows Server samples
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [ashmind/SharpLab](https://github.com/ashmind/SharpLab) - .NET language playground
 - [KallDrexx/DotnetSnes](https://github.com/KallDrexx/DotnetSnes) - Library allowing to use C# to create SNES roms
@@ -179,6 +189,9 @@
 
 ## C++ 
 
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+- [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
+- [videogamepreservation/descent3](https://github.com/videogamepreservation/descent3) - Descent 3 (1999) by Outrage Entertainment.
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -938,6 +951,7 @@
 
 ## Others 
 
+- [videogamepreservation/descent2](https://github.com/videogamepreservation/descent2) - Descent II (1996) by Parallax Software Corp.
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [Instrument/instrument-serif](https://github.com/Instrument/instrument-serif) - 
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
@@ -1240,6 +1254,7 @@
 
 ## Rust 
 
+- [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
 - [s2-streamstore/s2-kv-demo](https://github.com/s2-streamstore/s2-kv-demo) - Example distributed KV-store built on S2
@@ -1280,7 +1295,7 @@
 - [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) - An implementation of differential dataflow using timely dataflow on Rust.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [rotoclone/strategic-communication](https://github.com/rotoclone/strategic-communication) - A best-of-breed language with a holistic approach to moving the needle
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
 - [LukeMathWalker/wiremock-rs](https://github.com/LukeMathWalker/wiremock-rs) - HTTP mocking to test Rust applications.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
