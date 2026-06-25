@@ -2222,6 +2222,7 @@
 
 ## others 
 
+- [Th0rgal/open_oura](https://github.com/Th0rgal/open_oura) - Reverse-engineering notes and tooling for Oura Ring 3, 4, 5 BLE protocol
 - [microsoft/foundry-local-on-windowsserver-samples](https://github.com/microsoft/foundry-local-on-windowsserver-samples) - Foundry local on Windows Server samples
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [videogamepreservation/quake2](https://github.com/videogamepreservation/quake2) - Quake II (1997) by id Software, Inc.
