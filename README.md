@@ -1254,6 +1254,7 @@
 
 ## Rust 
 
+- [Th0rgal/open_oura](https://github.com/Th0rgal/open_oura) - Reverse-engineering notes and tooling for Oura Ring 3, 4, 5 BLE protocol
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
