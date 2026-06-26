@@ -290,7 +290,7 @@
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
+- [nikivdev/code](https://github.com/nikivdev/code) - 
 
 ## ai 
 
@@ -2222,7 +2222,7 @@
 
 ## others 
 
-- [Th0rgal/open_oura](https://github.com/Th0rgal/open_oura) - Reverse-engineering notes and tooling for Oura Ring 3, 4, 5 BLE protocol
+- [Th0rgal/open_oura](https://github.com/Th0rgal/open_oura) - A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.
 - [microsoft/foundry-local-on-windowsserver-samples](https://github.com/microsoft/foundry-local-on-windowsserver-samples) - Foundry local on Windows Server samples
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [videogamepreservation/quake2](https://github.com/videogamepreservation/quake2) - Quake II (1997) by id Software, Inc.
