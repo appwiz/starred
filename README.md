@@ -587,7 +587,6 @@
 - [soumak77/firebase-mock](https://github.com/soumak77/firebase-mock) - Firebase mock library for writing unit tests
 - [adobe/git-server](https://github.com/adobe/git-server) - A GitHub Protocol & API emulation
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
-- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [bigcalendar/react-big-calendar](https://github.com/bigcalendar/react-big-calendar) - gcal/outlook like calendar component
 - [smallbets/userbase](https://github.com/smallbets/userbase) - Create secure and private web apps using only static JavaScript, HTML, and CSS.
 - [awslabs/aws-sdk-api-changes](https://github.com/awslabs/aws-sdk-api-changes) - aws sdk api changes published as a static site
@@ -1122,6 +1121,7 @@
 - [seligman/aws-ip-ranges](https://github.com/seligman/aws-ip-ranges) - Tracking the history and size of AWS's ip-ranges.json file
 - [zestyping/q](https://github.com/zestyping/q) - Quick and dirty debugging output for tired programmers. ⛺
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [awslabs/aws-repository-status-monitor](https://github.com/awslabs/aws-repository-status-monitor) - The AWS Repository Status Monitor helps open-source developers keep track of GitHub and Docker metrics for their open source projects.
 - [minimaxir/imgmaker](https://github.com/minimaxir/imgmaker) - Create high-quality images programmatically with easily-hackable templates.
 - [LastWeekinAWS/followercount](https://github.com/LastWeekinAWS/followercount) - Track how many Twitter followers an account has over time.
