@@ -327,7 +327,7 @@
 - [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp) - MCP server and CLI tool for searching and downloading documents from Anna's Archive
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server (and its launcher) for AoE 1, 2, 3 (all DE), AoE 4 and AoM: RT supporting offline multiplayer
+- [luskaner/ageLANServer](https://github.com/luskaner/ageLANServer) - Web Server (and its launcher) for AoE 1, 2, 3 (all DE), AoE 4 and AoM: RT supporting offline multiplayer and fully cross-platform
 - [tesserato/CodeWeaver](https://github.com/tesserato/CodeWeaver) - Weave your codebase into a single, navigable Markdown document
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -1095,7 +1095,6 @@
 - [my-other-github-account/imessage_tools](https://github.com/my-other-github-account/imessage_tools) - Tools for reading iMessage chat.db and sending iMessages on MacOS Ventura - including parsing capabilities for those pesky hidden attributedBody messages - as Ventura seems to like hiding a lot of iMe
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [transcriptionstream/transcriptionstream](https://github.com/transcriptionstream/transcriptionstream) - turnkey self-hosted offline transcription and diarization service with llm summary
-- [bugbakery/transcribee](https://github.com/bugbakery/transcribee) - open source audio and video transcription software
 - [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [telnet23/imessage2csv](https://github.com/telnet23/imessage2csv) - Export contacts and chat messages from iOS or macOS for easy viewing and searching
 - [KhoomeiK/LlamaGym](https://github.com/KhoomeiK/LlamaGym) - Fine-tune LLM agents with online reinforcement learning
@@ -1498,6 +1497,7 @@
 - [omrilotan/isbot](https://github.com/omrilotan/isbot) - 🤖/👨‍🦰 Detect bots/crawlers/spiders using the user agent string
 - [eob/isai](https://github.com/eob/isai) - 
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
+- [bugbakery/transcribee](https://github.com/bugbakery/transcribee) - open source audio and video transcription software
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium for Serverless Platforms
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
