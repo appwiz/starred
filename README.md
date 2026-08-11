@@ -41,7 +41,6 @@
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
-- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Processing](#processing)
@@ -1042,10 +1041,6 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [jmhobbs/Swiftmailer-Transport--AWS-SES](https://github.com/jmhobbs/Swiftmailer-Transport--AWS-SES) - A simple Swiftmailer transport using AWS-SES
 
-## PLpgSQL 
-
-- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
-
 ## Perl 
 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
@@ -1265,6 +1260,7 @@
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [berkes/art](https://github.com/berkes/art) - Art Experiments
 - [irrio/semblance](https://github.com/irrio/semblance) - My WebAssembly VM
