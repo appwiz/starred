@@ -1363,7 +1363,7 @@
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
 - [gbdev/rgbenv](https://github.com/gbdev/rgbenv) - RGBDS version manager
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [RangeNetworks/dev](https://github.com/RangeNetworks/dev) - Start Here! Development Environment Tools and System Releases
 - [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
 - [spywhere/dotfiles](https://github.com/spywhere/dotfiles) - A cross-platform, modular dotfiles installer for my personal setup
