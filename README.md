@@ -501,7 +501,6 @@
 - [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
 - [awslabs/dynamodb-cross-region-library](https://github.com/awslabs/dynamodb-cross-region-library) - A library to facilitate cross-region replication with Amazon DynamoDB Streams.
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
-- [react-native-config/react-native-config](https://github.com/react-native-config/react-native-config) - Bring some 12 factor love to your mobile apps!
 - [morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts) - React Native Contacts
 - [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 - [OneBusAway/onebusaway-alexa](https://github.com/OneBusAway/onebusaway-alexa) - An Java-based app to communicate with Amazon Alexa for devices such as the Amazon Echo
@@ -716,7 +715,6 @@
 - [bartonhammond/snowflake](https://github.com/bartonhammond/snowflake) - :snowflake: A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router,  & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Par
 - [davideast/firebase-react-native-sample](https://github.com/davideast/firebase-react-native-sample) - Using React Native with Firebase
 - [ptmt/react-native-macos](https://github.com/ptmt/react-native-macos) - [deprecated in favor of https://microsoft.github.io/react-native-windows/] React Native for macOS is an experimental fork for writing desktop apps using Cocoa
-- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [facebookarchive/nuclide](https://github.com/facebookarchive/nuclide) - An open IDE for web and native mobile development, built on top of Atom
 - [mbrevoort/node-reggie](https://github.com/mbrevoort/node-reggie) - An experimental light weight alternative to a full blown npm registry
 - [rlidwka/sinopia](https://github.com/rlidwka/sinopia) - Private npm repository server
@@ -1004,6 +1002,7 @@
 - [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme) - :love_letter: Things I've learned about writing good READMEs.
+- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [webpro/programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of programming principles & design patterns
 - [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
@@ -1058,7 +1057,7 @@
 
 ## Python 
 
-- [linuxrebel/DocuBrowser](https://github.com/linuxrebel/DocuBrowser) - This does for Documents what repo-browser does for repos. A local AI powered Document search engine
+- [linuxrebel/DocuBrowser](https://github.com/linuxrebel/DocuBrowser) - A local AI powered Document search engine. That turns that pile of documents on your system into a manageable searchable info store.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -1226,6 +1225,7 @@
 - [bloom-lang/bud](https://github.com/bloom-lang/bud) - Prototype Bud runtime (Bloom Under Development)
 - [theswiftdev/awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [react-native-config/react-native-config](https://github.com/react-native-config/react-native-config) - Bring some 12 factor love to your mobile apps!
 - [aws-samples/aws-device-farm-calabash-tests-for-sample-app](https://github.com/aws-samples/aws-device-farm-calabash-tests-for-sample-app) - 
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [nomad-cli/houston](https://github.com/nomad-cli/houston) - Apple Push Notifications; No Dirigible Required
