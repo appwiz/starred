@@ -2637,7 +2637,6 @@
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [arunthampi/relax](https://github.com/arunthampi/relax) - Bots-as-a-Service for Slack
 - [arashpayan/appirater](https://github.com/arashpayan/appirater) - A utility that reminds your iPhone app's users to review the app.
-- [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme) - :love_letter: Things I've learned about writing good READMEs.
 - [OneBusAway/onebusaway-alexa](https://github.com/OneBusAway/onebusaway-alexa) - An Java-based app to communicate with Amazon Alexa for devices such as the Amazon Echo
 - [davideast/firebase-react-native-sample](https://github.com/davideast/firebase-react-native-sample) - Using React Native with Firebase
 - [ptmt/react-native-macos](https://github.com/ptmt/react-native-macos) - [deprecated in favor of https://microsoft.github.io/react-native-windows/] React Native for macOS is an experimental fork for writing desktop apps using Cocoa
