@@ -75,6 +75,7 @@
 - [videogamepreservation/quake](https://github.com/videogamepreservation/quake) - Quake (1996) by id Software, Inc.
 - [videogamepreservation/wolf3d](https://github.com/videogamepreservation/wolf3d) - Wolfenstein 3D (1992) by id Software, Inc. for DOS
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [Parrot-Developers/libpomp](https://github.com/Parrot-Developers/libpomp) - Printf Oriented Message Protocol
 - [videogamepreservation/descent](https://github.com/videogamepreservation/descent) - Descent (1995) by Parallax Software Corp.
 - [rudymatela/evenmoreutils](https://github.com/rudymatela/evenmoreutils) - A collection of command line tools to extend the shell environment.
@@ -869,7 +870,6 @@
 ## OCaml 
 
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Objective-C 
 
