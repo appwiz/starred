@@ -2253,6 +2253,7 @@
 
 ## others 
 
+- [oetiker/rrdtool-1.x](https://github.com/oetiker/rrdtool-1.x) - RRDtool 1.x - Round Robin Database
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [linuxrebel/DocuBrowser](https://github.com/linuxrebel/DocuBrowser) - A local AI powered Document search engine. That turns that pile of documents on your system into a manageable searchable info store.
