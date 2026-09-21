@@ -322,6 +322,7 @@
 
 ## Go 
 
+- [emergingrobotics/gorai](https://github.com/emergingrobotics/gorai) - Go-based Robotics Framework built around NATS.io
 - [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [geomys/sandboxed-step](https://github.com/geomys/sandboxed-step) - A GitHub Action that runs a command in a gVisor sandbox
@@ -1260,7 +1261,7 @@
 - [stepchowfun/typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
