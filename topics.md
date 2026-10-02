@@ -2264,7 +2264,7 @@
 
 ## others 
 
-- [firelex/jeff](https://github.com/firelex/jeff) - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification
+- [firelex/jeff](https://github.com/firelex/jeff) - Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.
 - [emergingrobotics/gorai](https://github.com/emergingrobotics/gorai) - Go-based Robotics Framework built around NATS.io
 - [oetiker/rrdtool-1.x](https://github.com/oetiker/rrdtool-1.x) - RRDtool 1.x - Round Robin Database
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
