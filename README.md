@@ -426,7 +426,6 @@
 ## HTML 
 
 - [dinoki-ai/public](https://github.com/dinoki-ai/public) - Public releases for Dinoki app
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [austinoboyle/scrape-linkedin-selenium](https://github.com/austinoboyle/scrape-linkedin-selenium) - `scrape_linkedin` is a python package that allows you to scrape personal LinkedIn profiles & company pages - turning the data into structured json.
 - [syncsynchalt/illustrated-tls13](https://github.com/syncsynchalt/illustrated-tls13) - The Illustrated TLS 1.3 Connection: Every byte explained
@@ -1057,7 +1056,7 @@
 
 ## Python 
 
-- [firelex/jeff](https://github.com/firelex/jeff) - Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification
+- [firelex/jeff](https://github.com/firelex/jeff) - Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.
 - [denis-pplx/autojev](https://github.com/denis-pplx/autojev) - Full-weight Qwen decision model with calibrated probabilities, training code, REST API, and playground.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [linuxrebel/DocuBrowser](https://github.com/linuxrebel/DocuBrowser) - A local AI powered Document search engine. That turns that pile of documents on your system into a manageable searchable info store.
@@ -1269,6 +1268,7 @@
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [berkes/art](https://github.com/berkes/art) - Art Experiments
 - [irrio/semblance](https://github.com/irrio/semblance) - My WebAssembly VM
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [jamsocket/y-sweet](https://github.com/jamsocket/y-sweet) - A realtime CRDT-based document store, backed by S3.
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
