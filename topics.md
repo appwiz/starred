@@ -2265,6 +2265,9 @@
 
 ## others 
 
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
+- [Plicerin/riverraid-rom-port](https://github.com/Plicerin/riverraid-rom-port) - River Raid (Atari 2600, 1982) ported to the browser instruction by instruction from the ROM, verified against the real cartridge on a 6502 core
+- [tobi/walgit](https://github.com/tobi/walgit) - 
 - [firelex/jeff](https://github.com/firelex/jeff) - Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.
 - [emergingrobotics/gorai](https://github.com/emergingrobotics/gorai) - Go-based Robotics Framework built around NATS.io
 - [oetiker/rrdtool-1.x](https://github.com/oetiker/rrdtool-1.x) - RRDtool 1.x - Round Robin Database
