@@ -904,7 +904,6 @@
 - [lazerwalker/Theseus](https://github.com/lazerwalker/Theseus) - An open-source iOS personal analytics tool
 - [ivan-magda/ToThePenny](https://github.com/ivan-magda/ToThePenny) - A budget tracker app for iOS
 - [premnirmal/TodayStocks](https://github.com/premnirmal/TodayStocks) - iOS port of StockTicker
-- [scrod/nv](https://github.com/scrod/nv) - Notational Velocity: modeless, mouseless Mac OS X note-taking application
 - [mixpanel/mixpanel-iphone](https://github.com/mixpanel/mixpanel-iphone) - Official iOS (Objective-C) Tracking Library for Mixpanel Analytics
 - [yahoo/AppDevKit](https://github.com/yahoo/AppDevKit) - AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
 - [damian-kolakowski/iOS-Hierarchy-Viewer](https://github.com/damian-kolakowski/iOS-Hierarchy-Viewer) - iOS Hierarchy viewer - View and Coredata debugging made easy
@@ -1454,6 +1453,7 @@
 - [mslathrop/SwiftNote](https://github.com/mslathrop/SwiftNote) - Simple note taking app with today widget and iCloud syncing. Written in swift
 - [icanzilb/EventBlankApp](https://github.com/icanzilb/EventBlankApp) - A free open source iOS app for events or conferences. Read more on the app's webpage:
 - [croossin/Malendar](https://github.com/croossin/Malendar) - 
+- [scrod/nv](https://github.com/scrod/nv) - Notational Velocity: modeless, mouseless Mac OS X note-taking application
 - [facebookarchive/facebook-swift-sdk](https://github.com/facebookarchive/facebook-swift-sdk) - Integrate your iOS apps in Swift with Facebook Platform.
 - [devicekit/DeviceKit](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
 - [anatoliyv/AssistantKit](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
