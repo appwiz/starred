@@ -363,7 +363,6 @@
 - [aws/ec2-macos-init](https://github.com/aws/ec2-macos-init) - EC2 macOS Init is the launch daemon used to initialize Mac instances within EC2.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Lightweight Certificate Transparency Log Monitor
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [thesephist/ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -1066,7 +1065,7 @@
 - [linuxrebel/DocuBrowser](https://github.com/linuxrebel/DocuBrowser) - A local AI powered Document search engine. That turns that pile of documents on your system into a manageable searchable info store.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [rbanffy/3270font](https://github.com/rbanffy/3270font) - A 3270 font in a modern format
@@ -1378,6 +1377,7 @@
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - additional functionality via binary patching
 - [shivasiddharth/RaspberryPi-Factory-Reset](https://github.com/shivasiddharth/RaspberryPi-Factory-Reset) - Repository to create a Raspberry Pi OS with a factory reset or system refresh or full system restore option.
 - [limepepper/raspberry-pi-factory-reset](https://github.com/limepepper/raspberry-pi-factory-reset) - Pi OS images which have been modified to allow a factory reset
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -1554,7 +1554,7 @@
 - [IBM/graphql-query-generator](https://github.com/IBM/graphql-query-generator) - Randomly generates GraphQL queries from a GraphQL schema
 - [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, ClickHouse, and more. Linux, MacOS, and Windows.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview
 - [dyaa/ssl-checker](https://github.com/dyaa/ssl-checker) - Zero-dependency SSL/TLS certificate checker for Node.js.
