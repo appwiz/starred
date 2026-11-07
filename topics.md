@@ -255,6 +255,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -2481,7 +2482,6 @@
 - [salesforce/ctrl](https://github.com/salesforce/ctrl) - Conditional Transformer Language Model for Controllable Generation
 - [Sankore/Sankore-3.1](https://github.com/Sankore/Sankore-3.1) - An open source interactive whiteboard. Official bugs tracker: http://bugs.open-sankore.org
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [sozi-projects/Sozi](https://github.com/sozi-projects/Sozi) - A "zooming" presentation editor
 - [arcus-smart-home/arcusios](https://github.com/arcus-smart-home/arcusios) - 
 - [hydro-project/anna](https://github.com/hydro-project/anna) - A low-latency, cloud-native KVS
@@ -2556,7 +2556,6 @@
 - [OneGraph/graphiql-explorer](https://github.com/OneGraph/graphiql-explorer) - Explorer plugin for GraphiQL
 - [graphql/libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs
 - [Gruntfuggly/vscode-journal-view](https://github.com/Gruntfuggly/vscode-journal-view) - Adds a sidebar viewlet for vscode-journal
-- [pajoma/vscode-journal](https://github.com/pajoma/vscode-journal) - Lightweight journal and simple notes support for Visual Studio Code
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [mikoskinen/graze](https://github.com/mikoskinen/graze) - Static site generator using Razor.
 - [toddlucas/ocam](https://github.com/toddlucas/ocam) - Razor and Markdown static site generator
@@ -3750,6 +3749,18 @@
 ## vpn 
 
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
+
+## vscode 
+
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
+- [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
+- [pajoma/vscode-journal](https://github.com/pajoma/vscode-journal) - Lightweight journal and simple notes support for Visual Studio Code
+- [kumarharsh/graphql-for-vscode](https://github.com/kumarharsh/graphql-for-vscode) - GraphQL syntax highlighting, linting, auto-complete, and more!
+- [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
+- [microsoft/vscode-react-native](https://github.com/microsoft/vscode-react-native) - VSCode extension for React Native - supports debugging and editor integration
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 
 ## vue 
 
