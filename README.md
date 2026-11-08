@@ -573,6 +573,7 @@
 
 ## JavaScript 
 
+- [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
