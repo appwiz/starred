@@ -3184,7 +3184,7 @@
 ## rails 
 
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-- [18F/identity-idp](https://github.com/18F/identity-idp) - Login.gov Core App: Identity Provider (IdP)
+- [GSA-TTS/identity-idp](https://github.com/GSA-TTS/identity-idp) - Login.gov Core App: Identity Provider (IdP)
 
 ## raspberry-pi 
 
